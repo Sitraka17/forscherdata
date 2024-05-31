@@ -1,0 +1,937 @@
+﻿DATAFLOW,SPECIFICATION: Spécification,FREQ: Fréquence,TIME_PERIOD: Période,OBS_VALUE,NOTE_YEAR_2: Note année 2,NOTE_YEAR_1: Note année 1,NOTE_SPECIFICATION_2: Note spécification 2,NOTE_SPECIFICATION_1: Note spécification 1,OBS_STATUS: Statut d'observation,DECIMALS: Décimales
+LU1:DF_E1100(1.0),SL05: Inflation sous-jacente,M: Mensuelle,2020-01,1.78730750178431,,,"SL05: Définitions : Inflation, Inflation sous-jacente",,,1: Un
+LU1:DF_E1100(1.0),SL05: Inflation sous-jacente,M: Mensuelle,2020-02,1.79562929483916,,,"SL05: Définitions : Inflation, Inflation sous-jacente",,,1: Un
+LU1:DF_E1100(1.0),SL05: Inflation sous-jacente,M: Mensuelle,2020-03,1.42718058782803,,,"SL05: Définitions : Inflation, Inflation sous-jacente",,,1: Un
+LU1:DF_E1100(1.0),SL05: Inflation sous-jacente,M: Mensuelle,2020-04,1.80217790605384,,,"SL05: Définitions : Inflation, Inflation sous-jacente",,,1: Un
+LU1:DF_E1100(1.0),SL05: Inflation sous-jacente,M: Mensuelle,2020-05,1.632511673945,,,"SL05: Définitions : Inflation, Inflation sous-jacente",,,1: Un
+LU1:DF_E1100(1.0),SL05: Inflation sous-jacente,M: Mensuelle,2020-06,1.64395346408659,,,"SL05: Définitions : Inflation, Inflation sous-jacente",,,1: Un
+LU1:DF_E1100(1.0),SL05: Inflation sous-jacente,M: Mensuelle,2020-07,1.73203242968478,,,"SL05: Définitions : Inflation, Inflation sous-jacente",,,1: Un
+LU1:DF_E1100(1.0),SL05: Inflation sous-jacente,M: Mensuelle,2020-08,1.37608887222358,,,"SL05: Définitions : Inflation, Inflation sous-jacente",,,1: Un
+LU1:DF_E1100(1.0),SL05: Inflation sous-jacente,M: Mensuelle,2020-09,1.62406825803292,,,"SL05: Définitions : Inflation, Inflation sous-jacente",,,1: Un
+LU1:DF_E1100(1.0),SL05: Inflation sous-jacente,M: Mensuelle,2020-10,1.62107570190539,,,"SL05: Définitions : Inflation, Inflation sous-jacente",,,1: Un
+LU1:DF_E1100(1.0),SL05: Inflation sous-jacente,M: Mensuelle,2020-11,1.4123545990895,,,"SL05: Définitions : Inflation, Inflation sous-jacente",,,1: Un
+LU1:DF_E1100(1.0),SL05: Inflation sous-jacente,M: Mensuelle,2020-12,1.39302740143232,,,"SL05: Définitions : Inflation, Inflation sous-jacente",,,1: Un
+LU1:DF_E1100(1.0),SL05: Inflation sous-jacente,M: Mensuelle,2021-01,2.52660104756159,,,"SL05: Définitions : Inflation, Inflation sous-jacente",,,1: Un
+LU1:DF_E1100(1.0),SL05: Inflation sous-jacente,M: Mensuelle,2021-02,-0.0629239030141782,,,"SL05: Définitions : Inflation, Inflation sous-jacente",,,1: Un
+LU1:DF_E1100(1.0),SL05: Inflation sous-jacente,M: Mensuelle,2021-03,1.5095924226586,,,"SL05: Définitions : Inflation, Inflation sous-jacente",,,1: Un
+LU1:DF_E1100(1.0),SL05: Inflation sous-jacente,M: Mensuelle,2021-04,1.02484311027153,,,"SL05: Définitions : Inflation, Inflation sous-jacente",,,1: Un
+LU1:DF_E1100(1.0),SL05: Inflation sous-jacente,M: Mensuelle,2021-05,1.24047339446398,,,"SL05: Définitions : Inflation, Inflation sous-jacente",,,1: Un
+LU1:DF_E1100(1.0),SL05: Inflation sous-jacente,M: Mensuelle,2021-06,1.12465665467731,,,"SL05: Définitions : Inflation, Inflation sous-jacente",,,1: Un
+LU1:DF_E1100(1.0),SL05: Inflation sous-jacente,M: Mensuelle,2021-07,1.21253370188399,,,"SL05: Définitions : Inflation, Inflation sous-jacente",,,1: Un
+LU1:DF_E1100(1.0),SL05: Inflation sous-jacente,M: Mensuelle,2021-08,1.32013113842824,,,"SL05: Définitions : Inflation, Inflation sous-jacente",,,1: Un
+LU1:DF_E1100(1.0),SL05: Inflation sous-jacente,M: Mensuelle,2021-09,1.36687142448866,,,"SL05: Définitions : Inflation, Inflation sous-jacente",,,1: Un
+LU1:DF_E1100(1.0),SL05: Inflation sous-jacente,M: Mensuelle,2021-10,1.75487297312058,,,"SL05: Définitions : Inflation, Inflation sous-jacente",,,1: Un
+LU1:DF_E1100(1.0),SL05: Inflation sous-jacente,M: Mensuelle,2021-11,2.24808580945026,,,"SL05: Définitions : Inflation, Inflation sous-jacente",,,1: Un
+LU1:DF_E1100(1.0),SL05: Inflation sous-jacente,M: Mensuelle,2021-12,2.34254762050368,,,"SL05: Définitions : Inflation, Inflation sous-jacente",,,1: Un
+LU1:DF_E1100(1.0),SL05: Inflation sous-jacente,M: Mensuelle,2022-01,1.39669760869845,,,"SL05: Définitions : Inflation, Inflation sous-jacente",,,1: Un
+LU1:DF_E1100(1.0),SL05: Inflation sous-jacente,M: Mensuelle,2022-02,4.24250084572289,,,"SL05: Définitions : Inflation, Inflation sous-jacente",,,1: Un
+LU1:DF_E1100(1.0),SL05: Inflation sous-jacente,M: Mensuelle,2022-03,3.49485666856348,,,"SL05: Définitions : Inflation, Inflation sous-jacente",,,1: Un
+LU1:DF_E1100(1.0),SL05: Inflation sous-jacente,M: Mensuelle,2022-04,4.23491740442903,,,"SL05: Définitions : Inflation, Inflation sous-jacente",,,1: Un
+LU1:DF_E1100(1.0),SL05: Inflation sous-jacente,M: Mensuelle,2022-05,4.50079300759889,,,"SL05: Définitions : Inflation, Inflation sous-jacente",,,1: Un
+LU1:DF_E1100(1.0),SL05: Inflation sous-jacente,M: Mensuelle,2022-06,4.78770252212151,,,"SL05: Définitions : Inflation, Inflation sous-jacente",,,1: Un
+LU1:DF_E1100(1.0),SL05: Inflation sous-jacente,M: Mensuelle,2022-07,4.69424108961189,,,"SL05: Définitions : Inflation, Inflation sous-jacente",,,1: Un
+LU1:DF_E1100(1.0),SL05: Inflation sous-jacente,M: Mensuelle,2022-08,5.14643999967532,,,"SL05: Définitions : Inflation, Inflation sous-jacente",,,1: Un
+LU1:DF_E1100(1.0),SL05: Inflation sous-jacente,M: Mensuelle,2022-09,5.16308106260117,,,"SL05: Définitions : Inflation, Inflation sous-jacente",,,1: Un
+LU1:DF_E1100(1.0),SL05: Inflation sous-jacente,M: Mensuelle,2022-10,5.07341986598711,,,"SL05: Définitions : Inflation, Inflation sous-jacente",,,1: Un
+LU1:DF_E1100(1.0),SL05: Inflation sous-jacente,M: Mensuelle,2022-11,4.88613164332665,,,"SL05: Définitions : Inflation, Inflation sous-jacente",,,1: Un
+LU1:DF_E1100(1.0),SL05: Inflation sous-jacente,M: Mensuelle,2022-12,4.59240447648608,,,"SL05: Définitions : Inflation, Inflation sous-jacente",,,1: Un
+LU1:DF_E1100(1.0),SL05: Inflation sous-jacente,M: Mensuelle,2023-01,4.78979754677535,,,"SL05: Définitions : Inflation, Inflation sous-jacente",,,1: Un
+LU1:DF_E1100(1.0),SL05: Inflation sous-jacente,M: Mensuelle,2023-02,4.79201787901811,,,"SL05: Définitions : Inflation, Inflation sous-jacente",,,1: Un
+LU1:DF_E1100(1.0),SL05: Inflation sous-jacente,M: Mensuelle,2023-03,4.65057485813611,,,"SL05: Définitions : Inflation, Inflation sous-jacente",,,1: Un
+LU1:DF_E1100(1.0),SL05: Inflation sous-jacente,M: Mensuelle,2023-04,4.90910683740975,,,"SL05: Définitions : Inflation, Inflation sous-jacente",,,1: Un
+LU1:DF_E1100(1.0),SL05: Inflation sous-jacente,M: Mensuelle,2023-05,4.80219905474399,,,"SL05: Définitions : Inflation, Inflation sous-jacente",,,1: Un
+LU1:DF_E1100(1.0),SL05: Inflation sous-jacente,M: Mensuelle,2023-06,4.68149800956408,,,"SL05: Définitions : Inflation, Inflation sous-jacente",,,1: Un
+LU1:DF_E1100(1.0),SL05: Inflation sous-jacente,M: Mensuelle,2023-07,4.85915576191784,,,"SL05: Définitions : Inflation, Inflation sous-jacente",,,1: Un
+LU1:DF_E1100(1.0),SL05: Inflation sous-jacente,M: Mensuelle,2023-08,4.52682849204806,,,"SL05: Définitions : Inflation, Inflation sous-jacente",,,1: Un
+LU1:DF_E1100(1.0),SL05: Inflation sous-jacente,M: Mensuelle,2023-09,4.3159946086355,,,"SL05: Définitions : Inflation, Inflation sous-jacente",,,1: Un
+LU1:DF_E1100(1.0),SL05: Inflation sous-jacente,M: Mensuelle,2023-10,4.18112512811855,,,"SL05: Définitions : Inflation, Inflation sous-jacente",,,1: Un
+LU1:DF_E1100(1.0),SL05: Inflation sous-jacente,M: Mensuelle,2023-11,3.87276576068425,,,"SL05: Définitions : Inflation, Inflation sous-jacente",,,1: Un
+LU1:DF_E1100(1.0),SL05: Inflation sous-jacente,M: Mensuelle,2023-12,4.0130664655263,,,"SL05: Définitions : Inflation, Inflation sous-jacente",,,1: Un
+LU1:DF_E1100(1.0),SL05: Inflation sous-jacente,M: Mensuelle,2024-01,3.97782678143341,,,"SL05: Définitions : Inflation, Inflation sous-jacente",,,1: Un
+LU1:DF_E1100(1.0),SL05: Inflation sous-jacente,M: Mensuelle,2024-02,3.3803043289774,,,"SL05: Définitions : Inflation, Inflation sous-jacente",,,1: Un
+LU1:DF_E1100(1.0),SL05: Inflation sous-jacente,M: Mensuelle,2024-03,3.2499270918545,,,"SL05: Définitions : Inflation, Inflation sous-jacente",,,1: Un
+LU1:DF_E1100(1.0),SL05: Inflation sous-jacente,M: Mensuelle,2024-04,2.38812549145289,,,"SL05: Définitions : Inflation, Inflation sous-jacente",,,1: Un
+LU1:DF_E1100(1.0),"SL02: Production dans la construction par jour ouvrable, en volume",M: Mensuelle,2020-01,16.0117650666,,,SL02: Définitions : Production dans la construction,,,1: Un
+LU1:DF_E1100(1.0),"SL02: Production dans la construction par jour ouvrable, en volume",M: Mensuelle,2020-02,-2.53031654571546,,,SL02: Définitions : Production dans la construction,,,1: Un
+LU1:DF_E1100(1.0),"SL02: Production dans la construction par jour ouvrable, en volume",M: Mensuelle,2020-03,-32.1804618706808,,,SL02: Définitions : Production dans la construction,,,1: Un
+LU1:DF_E1100(1.0),"SL02: Production dans la construction par jour ouvrable, en volume",M: Mensuelle,2020-04,-50.0292741159864,,,SL02: Définitions : Production dans la construction,,,1: Un
+LU1:DF_E1100(1.0),"SL02: Production dans la construction par jour ouvrable, en volume",M: Mensuelle,2020-05,-0.264390413747351,,,SL02: Définitions : Production dans la construction,,,1: Un
+LU1:DF_E1100(1.0),"SL02: Production dans la construction par jour ouvrable, en volume",M: Mensuelle,2020-06,-4.10422921616868,,,SL02: Définitions : Production dans la construction,,,1: Un
+LU1:DF_E1100(1.0),"SL02: Production dans la construction par jour ouvrable, en volume",M: Mensuelle,2020-07,2.50777628896373,,,SL02: Définitions : Production dans la construction,,,1: Un
+LU1:DF_E1100(1.0),"SL02: Production dans la construction par jour ouvrable, en volume",M: Mensuelle,2020-08,-11.573410331461,,,SL02: Définitions : Production dans la construction,,,1: Un
+LU1:DF_E1100(1.0),"SL02: Production dans la construction par jour ouvrable, en volume",M: Mensuelle,2020-09,-3.91227241487307,,,SL02: Définitions : Production dans la construction,,,1: Un
+LU1:DF_E1100(1.0),"SL02: Production dans la construction par jour ouvrable, en volume",M: Mensuelle,2020-10,-7.03196905621093,,,SL02: Définitions : Production dans la construction,,,1: Un
+LU1:DF_E1100(1.0),"SL02: Production dans la construction par jour ouvrable, en volume",M: Mensuelle,2020-11,-3.79413773027583,,,SL02: Définitions : Production dans la construction,,,1: Un
+LU1:DF_E1100(1.0),"SL02: Production dans la construction par jour ouvrable, en volume",M: Mensuelle,2020-12,-9.3258807257982,,,SL02: Définitions : Production dans la construction,,,1: Un
+LU1:DF_E1100(1.0),"SL02: Production dans la construction par jour ouvrable, en volume",M: Mensuelle,2021-01,-6.10522334781559,,,SL02: Définitions : Production dans la construction,,,1: Un
+LU1:DF_E1100(1.0),"SL02: Production dans la construction par jour ouvrable, en volume",M: Mensuelle,2021-02,-3.20921631864053,,,SL02: Définitions : Production dans la construction,,,1: Un
+LU1:DF_E1100(1.0),"SL02: Production dans la construction par jour ouvrable, en volume",M: Mensuelle,2021-03,47.4473643324403,,,SL02: Définitions : Production dans la construction,,,1: Un
+LU1:DF_E1100(1.0),"SL02: Production dans la construction par jour ouvrable, en volume",M: Mensuelle,2021-04,94.597423559206,,,SL02: Définitions : Production dans la construction,,,1: Un
+LU1:DF_E1100(1.0),"SL02: Production dans la construction par jour ouvrable, en volume",M: Mensuelle,2021-05,2.06669183317221,,,SL02: Définitions : Production dans la construction,,,1: Un
+LU1:DF_E1100(1.0),"SL02: Production dans la construction par jour ouvrable, en volume",M: Mensuelle,2021-06,0.304228277969698,,,SL02: Définitions : Production dans la construction,,,1: Un
+LU1:DF_E1100(1.0),"SL02: Production dans la construction par jour ouvrable, en volume",M: Mensuelle,2021-07,-2.40793188193352,,,SL02: Définitions : Production dans la construction,,,1: Un
+LU1:DF_E1100(1.0),"SL02: Production dans la construction par jour ouvrable, en volume",M: Mensuelle,2021-08,-6.29363498713212,,,SL02: Définitions : Production dans la construction,,,1: Un
+LU1:DF_E1100(1.0),"SL02: Production dans la construction par jour ouvrable, en volume",M: Mensuelle,2021-09,-0.5515790924283,,,SL02: Définitions : Production dans la construction,,,1: Un
+LU1:DF_E1100(1.0),"SL02: Production dans la construction par jour ouvrable, en volume",M: Mensuelle,2021-10,2.03307964068367,,,SL02: Définitions : Production dans la construction,,,1: Un
+LU1:DF_E1100(1.0),"SL02: Production dans la construction par jour ouvrable, en volume",M: Mensuelle,2021-11,0.631838310374899,,,SL02: Définitions : Production dans la construction,,,1: Un
+LU1:DF_E1100(1.0),"SL02: Production dans la construction par jour ouvrable, en volume",M: Mensuelle,2021-12,-12.4515615140469,,,SL02: Définitions : Production dans la construction,,,1: Un
+LU1:DF_E1100(1.0),"SL02: Production dans la construction par jour ouvrable, en volume",M: Mensuelle,2022-01,2.94455908102123,,,SL02: Définitions : Production dans la construction,,,1: Un
+LU1:DF_E1100(1.0),"SL02: Production dans la construction par jour ouvrable, en volume",M: Mensuelle,2022-02,5.24338701644933,,,SL02: Définitions : Production dans la construction,,,1: Un
+LU1:DF_E1100(1.0),"SL02: Production dans la construction par jour ouvrable, en volume",M: Mensuelle,2022-03,-1.58340108939644,,,SL02: Définitions : Production dans la construction,,,1: Un
+LU1:DF_E1100(1.0),"SL02: Production dans la construction par jour ouvrable, en volume",M: Mensuelle,2022-04,-2.41025333556614,,,SL02: Définitions : Production dans la construction,,,1: Un
+LU1:DF_E1100(1.0),"SL02: Production dans la construction par jour ouvrable, en volume",M: Mensuelle,2022-05,-4.44372561886986,,,SL02: Définitions : Production dans la construction,,,1: Un
+LU1:DF_E1100(1.0),"SL02: Production dans la construction par jour ouvrable, en volume",M: Mensuelle,2022-06,-1.61631199213909,,,SL02: Définitions : Production dans la construction,,,1: Un
+LU1:DF_E1100(1.0),"SL02: Production dans la construction par jour ouvrable, en volume",M: Mensuelle,2022-07,0.0520244155161942,,,SL02: Définitions : Production dans la construction,,,1: Un
+LU1:DF_E1100(1.0),"SL02: Production dans la construction par jour ouvrable, en volume",M: Mensuelle,2022-08,0.889160025096492,,,SL02: Définitions : Production dans la construction,,,1: Un
+LU1:DF_E1100(1.0),"SL02: Production dans la construction par jour ouvrable, en volume",M: Mensuelle,2022-09,0.345064095062364,,,SL02: Définitions : Production dans la construction,,,1: Un
+LU1:DF_E1100(1.0),"SL02: Production dans la construction par jour ouvrable, en volume",M: Mensuelle,2022-10,-2.77691910893326,,,SL02: Définitions : Production dans la construction,,,1: Un
+LU1:DF_E1100(1.0),"SL02: Production dans la construction par jour ouvrable, en volume",M: Mensuelle,2022-11,0.692728200225834,,,SL02: Définitions : Production dans la construction,,,1: Un
+LU1:DF_E1100(1.0),"SL02: Production dans la construction par jour ouvrable, en volume",M: Mensuelle,2022-12,15.6886802446937,,,SL02: Définitions : Production dans la construction,,,1: Un
+LU1:DF_E1100(1.0),"SL02: Production dans la construction par jour ouvrable, en volume",M: Mensuelle,2023-01,-12.5801252888075,,,SL02: Définitions : Production dans la construction,,,1: Un
+LU1:DF_E1100(1.0),"SL02: Production dans la construction par jour ouvrable, en volume",M: Mensuelle,2023-02,0.0743553165468924,,,SL02: Définitions : Production dans la construction,,,1: Un
+LU1:DF_E1100(1.0),"SL02: Production dans la construction par jour ouvrable, en volume",M: Mensuelle,2023-03,-2.15466453892413,,,SL02: Définitions : Production dans la construction,,,1: Un
+LU1:DF_E1100(1.0),"SL02: Production dans la construction par jour ouvrable, en volume",M: Mensuelle,2023-04,0.683090546220444,,,SL02: Définitions : Production dans la construction,,,1: Un
+LU1:DF_E1100(1.0),"SL02: Production dans la construction par jour ouvrable, en volume",M: Mensuelle,2023-05,-1.44288697945438,,,SL02: Définitions : Production dans la construction,,,1: Un
+LU1:DF_E1100(1.0),"SL02: Production dans la construction par jour ouvrable, en volume",M: Mensuelle,2023-06,-1.15153069517716,,,SL02: Définitions : Production dans la construction,,,1: Un
+LU1:DF_E1100(1.0),"SL02: Production dans la construction par jour ouvrable, en volume",M: Mensuelle,2023-07,-1.84370477046785,,,SL02: Définitions : Production dans la construction,,,1: Un
+LU1:DF_E1100(1.0),"SL02: Production dans la construction par jour ouvrable, en volume",M: Mensuelle,2023-08,7.07816164084372,,,SL02: Définitions : Production dans la construction,,,1: Un
+LU1:DF_E1100(1.0),"SL02: Production dans la construction par jour ouvrable, en volume",M: Mensuelle,2023-09,-3.60726836490851,,,SL02: Définitions : Production dans la construction,,,1: Un
+LU1:DF_E1100(1.0),"SL02: Production dans la construction par jour ouvrable, en volume",M: Mensuelle,2023-10,-1.6672423118254,,,SL02: Définitions : Production dans la construction,,,1: Un
+LU1:DF_E1100(1.0),"SL02: Production dans la construction par jour ouvrable, en volume",M: Mensuelle,2023-11,-5.96594064203619,,,SL02: Définitions : Production dans la construction,,,1: Un
+LU1:DF_E1100(1.0),"SL02: Production dans la construction par jour ouvrable, en volume",M: Mensuelle,2023-12,5.1256706472919,,,SL02: Définitions : Production dans la construction,,,1: Un
+LU1:DF_E1100(1.0),"SL02: Production dans la construction par jour ouvrable, en volume",M: Mensuelle,2024-01,-6.2089330554281,,,SL02: Définitions : Production dans la construction,,,1: Un
+LU1:DF_E1100(1.0),"SL02: Production dans la construction par jour ouvrable, en volume",M: Mensuelle,2024-02,-7.82085882597271,,,SL02: Définitions : Production dans la construction,,,1: Un
+LU1:DF_E1100(1.0),"SL02: Production dans la construction par jour ouvrable, en volume",M: Mensuelle,2024-03,-4.32719213885106,,,SL02: Définitions : Production dans la construction,,,1: Un
+LU1:DF_E1100(1.0),"SL02: Production dans la construction par jour ouvrable, en volume",M: Mensuelle,2024-04,,,,SL02: Définitions : Production dans la construction,,l: Non disponible,1: Un
+LU1:DF_E1100(1.0),"L04: Emploi, chômage",M: Mensuelle,2020-01,,,,"L04: Variations annuelles en %, sauf mention contraire. Les données des trois derniers mois sont des estimations, corrigées des variations saisonnières (cvs).  Sources: Inspection Générale de la Sécurité Sociale (IGSS) et Agence pour le Développement de l'Emploi (ADEM).",,,1: Un
+LU1:DF_E1100(1.0),"L04: Emploi, chômage",M: Mensuelle,2020-02,,,,"L04: Variations annuelles en %, sauf mention contraire. Les données des trois derniers mois sont des estimations, corrigées des variations saisonnières (cvs).  Sources: Inspection Générale de la Sécurité Sociale (IGSS) et Agence pour le Développement de l'Emploi (ADEM).",,,1: Un
+LU1:DF_E1100(1.0),"L04: Emploi, chômage",M: Mensuelle,2020-03,,,,"L04: Variations annuelles en %, sauf mention contraire. Les données des trois derniers mois sont des estimations, corrigées des variations saisonnières (cvs).  Sources: Inspection Générale de la Sécurité Sociale (IGSS) et Agence pour le Développement de l'Emploi (ADEM).",,,1: Un
+LU1:DF_E1100(1.0),"L04: Emploi, chômage",M: Mensuelle,2020-04,,,,"L04: Variations annuelles en %, sauf mention contraire. Les données des trois derniers mois sont des estimations, corrigées des variations saisonnières (cvs).  Sources: Inspection Générale de la Sécurité Sociale (IGSS) et Agence pour le Développement de l'Emploi (ADEM).",,,1: Un
+LU1:DF_E1100(1.0),"L04: Emploi, chômage",M: Mensuelle,2020-05,,,,"L04: Variations annuelles en %, sauf mention contraire. Les données des trois derniers mois sont des estimations, corrigées des variations saisonnières (cvs).  Sources: Inspection Générale de la Sécurité Sociale (IGSS) et Agence pour le Développement de l'Emploi (ADEM).",,,1: Un
+LU1:DF_E1100(1.0),"L04: Emploi, chômage",M: Mensuelle,2020-06,,,,"L04: Variations annuelles en %, sauf mention contraire. Les données des trois derniers mois sont des estimations, corrigées des variations saisonnières (cvs).  Sources: Inspection Générale de la Sécurité Sociale (IGSS) et Agence pour le Développement de l'Emploi (ADEM).",,,1: Un
+LU1:DF_E1100(1.0),"L04: Emploi, chômage",M: Mensuelle,2020-07,,,,"L04: Variations annuelles en %, sauf mention contraire. Les données des trois derniers mois sont des estimations, corrigées des variations saisonnières (cvs).  Sources: Inspection Générale de la Sécurité Sociale (IGSS) et Agence pour le Développement de l'Emploi (ADEM).",,,1: Un
+LU1:DF_E1100(1.0),"L04: Emploi, chômage",M: Mensuelle,2020-08,,,,"L04: Variations annuelles en %, sauf mention contraire. Les données des trois derniers mois sont des estimations, corrigées des variations saisonnières (cvs).  Sources: Inspection Générale de la Sécurité Sociale (IGSS) et Agence pour le Développement de l'Emploi (ADEM).",,,1: Un
+LU1:DF_E1100(1.0),"L04: Emploi, chômage",M: Mensuelle,2020-09,,,,"L04: Variations annuelles en %, sauf mention contraire. Les données des trois derniers mois sont des estimations, corrigées des variations saisonnières (cvs).  Sources: Inspection Générale de la Sécurité Sociale (IGSS) et Agence pour le Développement de l'Emploi (ADEM).",,,1: Un
+LU1:DF_E1100(1.0),"L04: Emploi, chômage",M: Mensuelle,2020-10,,,,"L04: Variations annuelles en %, sauf mention contraire. Les données des trois derniers mois sont des estimations, corrigées des variations saisonnières (cvs).  Sources: Inspection Générale de la Sécurité Sociale (IGSS) et Agence pour le Développement de l'Emploi (ADEM).",,,1: Un
+LU1:DF_E1100(1.0),"L04: Emploi, chômage",M: Mensuelle,2020-11,,,,"L04: Variations annuelles en %, sauf mention contraire. Les données des trois derniers mois sont des estimations, corrigées des variations saisonnières (cvs).  Sources: Inspection Générale de la Sécurité Sociale (IGSS) et Agence pour le Développement de l'Emploi (ADEM).",,,1: Un
+LU1:DF_E1100(1.0),"L04: Emploi, chômage",M: Mensuelle,2020-12,,,,"L04: Variations annuelles en %, sauf mention contraire. Les données des trois derniers mois sont des estimations, corrigées des variations saisonnières (cvs).  Sources: Inspection Générale de la Sécurité Sociale (IGSS) et Agence pour le Développement de l'Emploi (ADEM).",,,1: Un
+LU1:DF_E1100(1.0),"L04: Emploi, chômage",M: Mensuelle,2021-01,,,,"L04: Variations annuelles en %, sauf mention contraire. Les données des trois derniers mois sont des estimations, corrigées des variations saisonnières (cvs).  Sources: Inspection Générale de la Sécurité Sociale (IGSS) et Agence pour le Développement de l'Emploi (ADEM).",,,1: Un
+LU1:DF_E1100(1.0),"L04: Emploi, chômage",M: Mensuelle,2021-02,,,,"L04: Variations annuelles en %, sauf mention contraire. Les données des trois derniers mois sont des estimations, corrigées des variations saisonnières (cvs).  Sources: Inspection Générale de la Sécurité Sociale (IGSS) et Agence pour le Développement de l'Emploi (ADEM).",,,1: Un
+LU1:DF_E1100(1.0),"L04: Emploi, chômage",M: Mensuelle,2021-03,,,,"L04: Variations annuelles en %, sauf mention contraire. Les données des trois derniers mois sont des estimations, corrigées des variations saisonnières (cvs).  Sources: Inspection Générale de la Sécurité Sociale (IGSS) et Agence pour le Développement de l'Emploi (ADEM).",,,1: Un
+LU1:DF_E1100(1.0),"L04: Emploi, chômage",M: Mensuelle,2021-04,,,,"L04: Variations annuelles en %, sauf mention contraire. Les données des trois derniers mois sont des estimations, corrigées des variations saisonnières (cvs).  Sources: Inspection Générale de la Sécurité Sociale (IGSS) et Agence pour le Développement de l'Emploi (ADEM).",,,1: Un
+LU1:DF_E1100(1.0),"L04: Emploi, chômage",M: Mensuelle,2021-05,,,,"L04: Variations annuelles en %, sauf mention contraire. Les données des trois derniers mois sont des estimations, corrigées des variations saisonnières (cvs).  Sources: Inspection Générale de la Sécurité Sociale (IGSS) et Agence pour le Développement de l'Emploi (ADEM).",,,1: Un
+LU1:DF_E1100(1.0),"L04: Emploi, chômage",M: Mensuelle,2021-06,,,,"L04: Variations annuelles en %, sauf mention contraire. Les données des trois derniers mois sont des estimations, corrigées des variations saisonnières (cvs).  Sources: Inspection Générale de la Sécurité Sociale (IGSS) et Agence pour le Développement de l'Emploi (ADEM).",,,1: Un
+LU1:DF_E1100(1.0),"L04: Emploi, chômage",M: Mensuelle,2021-07,,,,"L04: Variations annuelles en %, sauf mention contraire. Les données des trois derniers mois sont des estimations, corrigées des variations saisonnières (cvs).  Sources: Inspection Générale de la Sécurité Sociale (IGSS) et Agence pour le Développement de l'Emploi (ADEM).",,,1: Un
+LU1:DF_E1100(1.0),"L04: Emploi, chômage",M: Mensuelle,2021-08,,,,"L04: Variations annuelles en %, sauf mention contraire. Les données des trois derniers mois sont des estimations, corrigées des variations saisonnières (cvs).  Sources: Inspection Générale de la Sécurité Sociale (IGSS) et Agence pour le Développement de l'Emploi (ADEM).",,,1: Un
+LU1:DF_E1100(1.0),"L04: Emploi, chômage",M: Mensuelle,2021-09,,,,"L04: Variations annuelles en %, sauf mention contraire. Les données des trois derniers mois sont des estimations, corrigées des variations saisonnières (cvs).  Sources: Inspection Générale de la Sécurité Sociale (IGSS) et Agence pour le Développement de l'Emploi (ADEM).",,,1: Un
+LU1:DF_E1100(1.0),"L04: Emploi, chômage",M: Mensuelle,2021-10,,,,"L04: Variations annuelles en %, sauf mention contraire. Les données des trois derniers mois sont des estimations, corrigées des variations saisonnières (cvs).  Sources: Inspection Générale de la Sécurité Sociale (IGSS) et Agence pour le Développement de l'Emploi (ADEM).",,,1: Un
+LU1:DF_E1100(1.0),"L04: Emploi, chômage",M: Mensuelle,2021-11,,,,"L04: Variations annuelles en %, sauf mention contraire. Les données des trois derniers mois sont des estimations, corrigées des variations saisonnières (cvs).  Sources: Inspection Générale de la Sécurité Sociale (IGSS) et Agence pour le Développement de l'Emploi (ADEM).",,,1: Un
+LU1:DF_E1100(1.0),"L04: Emploi, chômage",M: Mensuelle,2021-12,,,,"L04: Variations annuelles en %, sauf mention contraire. Les données des trois derniers mois sont des estimations, corrigées des variations saisonnières (cvs).  Sources: Inspection Générale de la Sécurité Sociale (IGSS) et Agence pour le Développement de l'Emploi (ADEM).",,,1: Un
+LU1:DF_E1100(1.0),"L04: Emploi, chômage",M: Mensuelle,2022-01,,,,"L04: Variations annuelles en %, sauf mention contraire. Les données des trois derniers mois sont des estimations, corrigées des variations saisonnières (cvs).  Sources: Inspection Générale de la Sécurité Sociale (IGSS) et Agence pour le Développement de l'Emploi (ADEM).",,,1: Un
+LU1:DF_E1100(1.0),"L04: Emploi, chômage",M: Mensuelle,2022-02,,,,"L04: Variations annuelles en %, sauf mention contraire. Les données des trois derniers mois sont des estimations, corrigées des variations saisonnières (cvs).  Sources: Inspection Générale de la Sécurité Sociale (IGSS) et Agence pour le Développement de l'Emploi (ADEM).",,,1: Un
+LU1:DF_E1100(1.0),"L04: Emploi, chômage",M: Mensuelle,2022-03,,,,"L04: Variations annuelles en %, sauf mention contraire. Les données des trois derniers mois sont des estimations, corrigées des variations saisonnières (cvs).  Sources: Inspection Générale de la Sécurité Sociale (IGSS) et Agence pour le Développement de l'Emploi (ADEM).",,,1: Un
+LU1:DF_E1100(1.0),"L04: Emploi, chômage",M: Mensuelle,2022-04,,,,"L04: Variations annuelles en %, sauf mention contraire. Les données des trois derniers mois sont des estimations, corrigées des variations saisonnières (cvs).  Sources: Inspection Générale de la Sécurité Sociale (IGSS) et Agence pour le Développement de l'Emploi (ADEM).",,,1: Un
+LU1:DF_E1100(1.0),"L04: Emploi, chômage",M: Mensuelle,2022-05,,,,"L04: Variations annuelles en %, sauf mention contraire. Les données des trois derniers mois sont des estimations, corrigées des variations saisonnières (cvs).  Sources: Inspection Générale de la Sécurité Sociale (IGSS) et Agence pour le Développement de l'Emploi (ADEM).",,,1: Un
+LU1:DF_E1100(1.0),"L04: Emploi, chômage",M: Mensuelle,2022-06,,,,"L04: Variations annuelles en %, sauf mention contraire. Les données des trois derniers mois sont des estimations, corrigées des variations saisonnières (cvs).  Sources: Inspection Générale de la Sécurité Sociale (IGSS) et Agence pour le Développement de l'Emploi (ADEM).",,,1: Un
+LU1:DF_E1100(1.0),"L04: Emploi, chômage",M: Mensuelle,2022-07,,,,"L04: Variations annuelles en %, sauf mention contraire. Les données des trois derniers mois sont des estimations, corrigées des variations saisonnières (cvs).  Sources: Inspection Générale de la Sécurité Sociale (IGSS) et Agence pour le Développement de l'Emploi (ADEM).",,,1: Un
+LU1:DF_E1100(1.0),"L04: Emploi, chômage",M: Mensuelle,2022-08,,,,"L04: Variations annuelles en %, sauf mention contraire. Les données des trois derniers mois sont des estimations, corrigées des variations saisonnières (cvs).  Sources: Inspection Générale de la Sécurité Sociale (IGSS) et Agence pour le Développement de l'Emploi (ADEM).",,,1: Un
+LU1:DF_E1100(1.0),"L04: Emploi, chômage",M: Mensuelle,2022-09,,,,"L04: Variations annuelles en %, sauf mention contraire. Les données des trois derniers mois sont des estimations, corrigées des variations saisonnières (cvs).  Sources: Inspection Générale de la Sécurité Sociale (IGSS) et Agence pour le Développement de l'Emploi (ADEM).",,,1: Un
+LU1:DF_E1100(1.0),"L04: Emploi, chômage",M: Mensuelle,2022-10,,,,"L04: Variations annuelles en %, sauf mention contraire. Les données des trois derniers mois sont des estimations, corrigées des variations saisonnières (cvs).  Sources: Inspection Générale de la Sécurité Sociale (IGSS) et Agence pour le Développement de l'Emploi (ADEM).",,,1: Un
+LU1:DF_E1100(1.0),"L04: Emploi, chômage",M: Mensuelle,2022-11,,,,"L04: Variations annuelles en %, sauf mention contraire. Les données des trois derniers mois sont des estimations, corrigées des variations saisonnières (cvs).  Sources: Inspection Générale de la Sécurité Sociale (IGSS) et Agence pour le Développement de l'Emploi (ADEM).",,,1: Un
+LU1:DF_E1100(1.0),"L04: Emploi, chômage",M: Mensuelle,2022-12,,,,"L04: Variations annuelles en %, sauf mention contraire. Les données des trois derniers mois sont des estimations, corrigées des variations saisonnières (cvs).  Sources: Inspection Générale de la Sécurité Sociale (IGSS) et Agence pour le Développement de l'Emploi (ADEM).",,,1: Un
+LU1:DF_E1100(1.0),"L04: Emploi, chômage",M: Mensuelle,2023-01,,,,"L04: Variations annuelles en %, sauf mention contraire. Les données des trois derniers mois sont des estimations, corrigées des variations saisonnières (cvs).  Sources: Inspection Générale de la Sécurité Sociale (IGSS) et Agence pour le Développement de l'Emploi (ADEM).",,,1: Un
+LU1:DF_E1100(1.0),"L04: Emploi, chômage",M: Mensuelle,2023-02,,,,"L04: Variations annuelles en %, sauf mention contraire. Les données des trois derniers mois sont des estimations, corrigées des variations saisonnières (cvs).  Sources: Inspection Générale de la Sécurité Sociale (IGSS) et Agence pour le Développement de l'Emploi (ADEM).",,,1: Un
+LU1:DF_E1100(1.0),"L04: Emploi, chômage",M: Mensuelle,2023-03,,,,"L04: Variations annuelles en %, sauf mention contraire. Les données des trois derniers mois sont des estimations, corrigées des variations saisonnières (cvs).  Sources: Inspection Générale de la Sécurité Sociale (IGSS) et Agence pour le Développement de l'Emploi (ADEM).",,,1: Un
+LU1:DF_E1100(1.0),"L04: Emploi, chômage",M: Mensuelle,2023-04,,,,"L04: Variations annuelles en %, sauf mention contraire. Les données des trois derniers mois sont des estimations, corrigées des variations saisonnières (cvs).  Sources: Inspection Générale de la Sécurité Sociale (IGSS) et Agence pour le Développement de l'Emploi (ADEM).",,,1: Un
+LU1:DF_E1100(1.0),"L04: Emploi, chômage",M: Mensuelle,2023-05,,,,"L04: Variations annuelles en %, sauf mention contraire. Les données des trois derniers mois sont des estimations, corrigées des variations saisonnières (cvs).  Sources: Inspection Générale de la Sécurité Sociale (IGSS) et Agence pour le Développement de l'Emploi (ADEM).",,,1: Un
+LU1:DF_E1100(1.0),"L04: Emploi, chômage",M: Mensuelle,2023-06,,,,"L04: Variations annuelles en %, sauf mention contraire. Les données des trois derniers mois sont des estimations, corrigées des variations saisonnières (cvs).  Sources: Inspection Générale de la Sécurité Sociale (IGSS) et Agence pour le Développement de l'Emploi (ADEM).",,,1: Un
+LU1:DF_E1100(1.0),"L04: Emploi, chômage",M: Mensuelle,2023-07,,,,"L04: Variations annuelles en %, sauf mention contraire. Les données des trois derniers mois sont des estimations, corrigées des variations saisonnières (cvs).  Sources: Inspection Générale de la Sécurité Sociale (IGSS) et Agence pour le Développement de l'Emploi (ADEM).",,,1: Un
+LU1:DF_E1100(1.0),"L04: Emploi, chômage",M: Mensuelle,2023-08,,,,"L04: Variations annuelles en %, sauf mention contraire. Les données des trois derniers mois sont des estimations, corrigées des variations saisonnières (cvs).  Sources: Inspection Générale de la Sécurité Sociale (IGSS) et Agence pour le Développement de l'Emploi (ADEM).",,,1: Un
+LU1:DF_E1100(1.0),"L04: Emploi, chômage",M: Mensuelle,2023-09,,,,"L04: Variations annuelles en %, sauf mention contraire. Les données des trois derniers mois sont des estimations, corrigées des variations saisonnières (cvs).  Sources: Inspection Générale de la Sécurité Sociale (IGSS) et Agence pour le Développement de l'Emploi (ADEM).",,,1: Un
+LU1:DF_E1100(1.0),"L04: Emploi, chômage",M: Mensuelle,2023-10,,,,"L04: Variations annuelles en %, sauf mention contraire. Les données des trois derniers mois sont des estimations, corrigées des variations saisonnières (cvs).  Sources: Inspection Générale de la Sécurité Sociale (IGSS) et Agence pour le Développement de l'Emploi (ADEM).",,,1: Un
+LU1:DF_E1100(1.0),"L04: Emploi, chômage",M: Mensuelle,2023-11,,,,"L04: Variations annuelles en %, sauf mention contraire. Les données des trois derniers mois sont des estimations, corrigées des variations saisonnières (cvs).  Sources: Inspection Générale de la Sécurité Sociale (IGSS) et Agence pour le Développement de l'Emploi (ADEM).",,,1: Un
+LU1:DF_E1100(1.0),"L04: Emploi, chômage",M: Mensuelle,2023-12,,,,"L04: Variations annuelles en %, sauf mention contraire. Les données des trois derniers mois sont des estimations, corrigées des variations saisonnières (cvs).  Sources: Inspection Générale de la Sécurité Sociale (IGSS) et Agence pour le Développement de l'Emploi (ADEM).",,,1: Un
+LU1:DF_E1100(1.0),"L04: Emploi, chômage",M: Mensuelle,2024-01,,,,"L04: Variations annuelles en %, sauf mention contraire. Les données des trois derniers mois sont des estimations, corrigées des variations saisonnières (cvs).  Sources: Inspection Générale de la Sécurité Sociale (IGSS) et Agence pour le Développement de l'Emploi (ADEM).",,,1: Un
+LU1:DF_E1100(1.0),"L04: Emploi, chômage",M: Mensuelle,2024-02,,,,"L04: Variations annuelles en %, sauf mention contraire. Les données des trois derniers mois sont des estimations, corrigées des variations saisonnières (cvs).  Sources: Inspection Générale de la Sécurité Sociale (IGSS) et Agence pour le Développement de l'Emploi (ADEM).",,,1: Un
+LU1:DF_E1100(1.0),"L04: Emploi, chômage",M: Mensuelle,2024-03,,,,"L04: Variations annuelles en %, sauf mention contraire. Les données des trois derniers mois sont des estimations, corrigées des variations saisonnières (cvs).  Sources: Inspection Générale de la Sécurité Sociale (IGSS) et Agence pour le Développement de l'Emploi (ADEM).",,,1: Un
+LU1:DF_E1100(1.0),"L04: Emploi, chômage",M: Mensuelle,2024-04,,,,"L04: Variations annuelles en %, sauf mention contraire. Les données des trois derniers mois sont des estimations, corrigées des variations saisonnières (cvs).  Sources: Inspection Générale de la Sécurité Sociale (IGSS) et Agence pour le Développement de l'Emploi (ADEM).",,,1: Un
+LU1:DF_E1100(1.0),"SL09: Coût salarial moyen, par mois et par personne (CNT)",M: Mensuelle,2020-01,2.06077111352307,,,SL09: Estimations sur base de données semestrielles.,,,1: Un
+LU1:DF_E1100(1.0),"SL09: Coût salarial moyen, par mois et par personne (CNT)",M: Mensuelle,2020-02,2.06077111352307,,,SL09: Estimations sur base de données semestrielles.,,,1: Un
+LU1:DF_E1100(1.0),"SL09: Coût salarial moyen, par mois et par personne (CNT)",M: Mensuelle,2020-03,2.06077111352307,,,SL09: Estimations sur base de données semestrielles.,,,1: Un
+LU1:DF_E1100(1.0),"SL09: Coût salarial moyen, par mois et par personne (CNT)",M: Mensuelle,2020-04,-4.97399305091331,,,SL09: Estimations sur base de données semestrielles.,,,1: Un
+LU1:DF_E1100(1.0),"SL09: Coût salarial moyen, par mois et par personne (CNT)",M: Mensuelle,2020-05,-4.97399305091331,,,SL09: Estimations sur base de données semestrielles.,,,1: Un
+LU1:DF_E1100(1.0),"SL09: Coût salarial moyen, par mois et par personne (CNT)",M: Mensuelle,2020-06,-4.97399305091331,,,SL09: Estimations sur base de données semestrielles.,,,1: Un
+LU1:DF_E1100(1.0),"SL09: Coût salarial moyen, par mois et par personne (CNT)",M: Mensuelle,2020-07,3.09741287544691,,,SL09: Estimations sur base de données semestrielles.,,,1: Un
+LU1:DF_E1100(1.0),"SL09: Coût salarial moyen, par mois et par personne (CNT)",M: Mensuelle,2020-08,3.09741287544691,,,SL09: Estimations sur base de données semestrielles.,,,1: Un
+LU1:DF_E1100(1.0),"SL09: Coût salarial moyen, par mois et par personne (CNT)",M: Mensuelle,2020-09,3.09741287544691,,,SL09: Estimations sur base de données semestrielles.,,,1: Un
+LU1:DF_E1100(1.0),"SL09: Coût salarial moyen, par mois et par personne (CNT)",M: Mensuelle,2020-10,4.23718104111159,,,SL09: Estimations sur base de données semestrielles.,,,1: Un
+LU1:DF_E1100(1.0),"SL09: Coût salarial moyen, par mois et par personne (CNT)",M: Mensuelle,2020-11,4.23718104111159,,,SL09: Estimations sur base de données semestrielles.,,,1: Un
+LU1:DF_E1100(1.0),"SL09: Coût salarial moyen, par mois et par personne (CNT)",M: Mensuelle,2020-12,4.23718104111159,,,SL09: Estimations sur base de données semestrielles.,,,1: Un
+LU1:DF_E1100(1.0),"SL09: Coût salarial moyen, par mois et par personne (CNT)",M: Mensuelle,2021-01,1.16315919001766,,,SL09: Estimations sur base de données semestrielles.,,,1: Un
+LU1:DF_E1100(1.0),"SL09: Coût salarial moyen, par mois et par personne (CNT)",M: Mensuelle,2021-02,1.16315919001766,,,SL09: Estimations sur base de données semestrielles.,,,1: Un
+LU1:DF_E1100(1.0),"SL09: Coût salarial moyen, par mois et par personne (CNT)",M: Mensuelle,2021-03,1.16315919001766,,,SL09: Estimations sur base de données semestrielles.,,,1: Un
+LU1:DF_E1100(1.0),"SL09: Coût salarial moyen, par mois et par personne (CNT)",M: Mensuelle,2021-04,11.3985110601206,,,SL09: Estimations sur base de données semestrielles.,,,1: Un
+LU1:DF_E1100(1.0),"SL09: Coût salarial moyen, par mois et par personne (CNT)",M: Mensuelle,2021-05,11.3985110601206,,,SL09: Estimations sur base de données semestrielles.,,,1: Un
+LU1:DF_E1100(1.0),"SL09: Coût salarial moyen, par mois et par personne (CNT)",M: Mensuelle,2021-06,11.3985110601206,,,SL09: Estimations sur base de données semestrielles.,,,1: Un
+LU1:DF_E1100(1.0),"SL09: Coût salarial moyen, par mois et par personne (CNT)",M: Mensuelle,2021-07,2.94824533631262,,,SL09: Estimations sur base de données semestrielles.,,,1: Un
+LU1:DF_E1100(1.0),"SL09: Coût salarial moyen, par mois et par personne (CNT)",M: Mensuelle,2021-08,2.94824533631262,,,SL09: Estimations sur base de données semestrielles.,,,1: Un
+LU1:DF_E1100(1.0),"SL09: Coût salarial moyen, par mois et par personne (CNT)",M: Mensuelle,2021-09,2.94824533631262,,,SL09: Estimations sur base de données semestrielles.,,,1: Un
+LU1:DF_E1100(1.0),"SL09: Coût salarial moyen, par mois et par personne (CNT)",M: Mensuelle,2021-10,5.20602513583541,,,SL09: Estimations sur base de données semestrielles.,,,1: Un
+LU1:DF_E1100(1.0),"SL09: Coût salarial moyen, par mois et par personne (CNT)",M: Mensuelle,2021-11,5.20602513583541,,,SL09: Estimations sur base de données semestrielles.,,,1: Un
+LU1:DF_E1100(1.0),"SL09: Coût salarial moyen, par mois et par personne (CNT)",M: Mensuelle,2021-12,5.20602513583541,,,SL09: Estimations sur base de données semestrielles.,,,1: Un
+LU1:DF_E1100(1.0),"SL09: Coût salarial moyen, par mois et par personne (CNT)",M: Mensuelle,2022-01,6.87316798348387,,,SL09: Estimations sur base de données semestrielles.,,,1: Un
+LU1:DF_E1100(1.0),"SL09: Coût salarial moyen, par mois et par personne (CNT)",M: Mensuelle,2022-02,6.87316798348387,,,SL09: Estimations sur base de données semestrielles.,,,1: Un
+LU1:DF_E1100(1.0),"SL09: Coût salarial moyen, par mois et par personne (CNT)",M: Mensuelle,2022-03,6.87316798348387,,,SL09: Estimations sur base de données semestrielles.,,,1: Un
+LU1:DF_E1100(1.0),"SL09: Coût salarial moyen, par mois et par personne (CNT)",M: Mensuelle,2022-04,8.15696363770533,,,SL09: Estimations sur base de données semestrielles.,,,1: Un
+LU1:DF_E1100(1.0),"SL09: Coût salarial moyen, par mois et par personne (CNT)",M: Mensuelle,2022-05,8.15696363770533,,,SL09: Estimations sur base de données semestrielles.,,,1: Un
+LU1:DF_E1100(1.0),"SL09: Coût salarial moyen, par mois et par personne (CNT)",M: Mensuelle,2022-06,8.15696363770533,,,SL09: Estimations sur base de données semestrielles.,,,1: Un
+LU1:DF_E1100(1.0),"SL09: Coût salarial moyen, par mois et par personne (CNT)",M: Mensuelle,2022-07,5.96733748596627,,,SL09: Estimations sur base de données semestrielles.,,,1: Un
+LU1:DF_E1100(1.0),"SL09: Coût salarial moyen, par mois et par personne (CNT)",M: Mensuelle,2022-08,5.96733748596627,,,SL09: Estimations sur base de données semestrielles.,,,1: Un
+LU1:DF_E1100(1.0),"SL09: Coût salarial moyen, par mois et par personne (CNT)",M: Mensuelle,2022-09,5.96733748596627,,,SL09: Estimations sur base de données semestrielles.,,,1: Un
+LU1:DF_E1100(1.0),"SL09: Coût salarial moyen, par mois et par personne (CNT)",M: Mensuelle,2022-10,2.89326272915043,,,SL09: Estimations sur base de données semestrielles.,,,1: Un
+LU1:DF_E1100(1.0),"SL09: Coût salarial moyen, par mois et par personne (CNT)",M: Mensuelle,2022-11,2.89326272915043,,,SL09: Estimations sur base de données semestrielles.,,,1: Un
+LU1:DF_E1100(1.0),"SL09: Coût salarial moyen, par mois et par personne (CNT)",M: Mensuelle,2022-12,2.89326272915043,,,SL09: Estimations sur base de données semestrielles.,,,1: Un
+LU1:DF_E1100(1.0),"SL09: Coût salarial moyen, par mois et par personne (CNT)",M: Mensuelle,2023-01,6.57997805065091,,,SL09: Estimations sur base de données semestrielles.,,,1: Un
+LU1:DF_E1100(1.0),"SL09: Coût salarial moyen, par mois et par personne (CNT)",M: Mensuelle,2023-02,6.57997805065091,,,SL09: Estimations sur base de données semestrielles.,,,1: Un
+LU1:DF_E1100(1.0),"SL09: Coût salarial moyen, par mois et par personne (CNT)",M: Mensuelle,2023-03,6.57997805065091,,,SL09: Estimations sur base de données semestrielles.,,,1: Un
+LU1:DF_E1100(1.0),"SL09: Coût salarial moyen, par mois et par personne (CNT)",M: Mensuelle,2023-04,6.78841613628498,,,SL09: Estimations sur base de données semestrielles.,,,1: Un
+LU1:DF_E1100(1.0),"SL09: Coût salarial moyen, par mois et par personne (CNT)",M: Mensuelle,2023-05,6.78841613628498,,,SL09: Estimations sur base de données semestrielles.,,,1: Un
+LU1:DF_E1100(1.0),"SL09: Coût salarial moyen, par mois et par personne (CNT)",M: Mensuelle,2023-06,6.78841613628498,,,SL09: Estimations sur base de données semestrielles.,,,1: Un
+LU1:DF_E1100(1.0),"SL09: Coût salarial moyen, par mois et par personne (CNT)",M: Mensuelle,2023-07,7.33535062575394,,,SL09: Estimations sur base de données semestrielles.,,,1: Un
+LU1:DF_E1100(1.0),"SL09: Coût salarial moyen, par mois et par personne (CNT)",M: Mensuelle,2023-08,7.33535062575394,,,SL09: Estimations sur base de données semestrielles.,,,1: Un
+LU1:DF_E1100(1.0),"SL09: Coût salarial moyen, par mois et par personne (CNT)",M: Mensuelle,2023-09,7.33535062575394,,,SL09: Estimations sur base de données semestrielles.,,,1: Un
+LU1:DF_E1100(1.0),"SL09: Coût salarial moyen, par mois et par personne (CNT)",M: Mensuelle,2023-10,8.56909281110689,,,SL09: Estimations sur base de données semestrielles.,,,1: Un
+LU1:DF_E1100(1.0),"SL09: Coût salarial moyen, par mois et par personne (CNT)",M: Mensuelle,2023-11,8.56909281110689,,,SL09: Estimations sur base de données semestrielles.,,,1: Un
+LU1:DF_E1100(1.0),"SL09: Coût salarial moyen, par mois et par personne (CNT)",M: Mensuelle,2023-12,8.56909281110689,,,SL09: Estimations sur base de données semestrielles.,,,1: Un
+LU1:DF_E1100(1.0),"SL09: Coût salarial moyen, par mois et par personne (CNT)",M: Mensuelle,2024-01,,,,SL09: Estimations sur base de données semestrielles.,,l: Non disponible,1: Un
+LU1:DF_E1100(1.0),"SL09: Coût salarial moyen, par mois et par personne (CNT)",M: Mensuelle,2024-02,,,,SL09: Estimations sur base de données semestrielles.,,l: Non disponible,1: Un
+LU1:DF_E1100(1.0),"SL09: Coût salarial moyen, par mois et par personne (CNT)",M: Mensuelle,2024-03,,,,SL09: Estimations sur base de données semestrielles.,,l: Non disponible,1: Un
+LU1:DF_E1100(1.0),"SL09: Coût salarial moyen, par mois et par personne (CNT)",M: Mensuelle,2024-04,,,,SL09: Estimations sur base de données semestrielles.,,l: Non disponible,1: Un
+LU1:DF_E1100(1.0),SL08: Indice des prix de la construction,M: Mensuelle,2020-01,2.93951248283888,,,SL08: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL08: Indice des prix de la construction,M: Mensuelle,2020-02,2.93951248283888,,,SL08: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL08: Indice des prix de la construction,M: Mensuelle,2020-03,2.93951248283888,,,SL08: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL08: Indice des prix de la construction,M: Mensuelle,2020-04,3.15884514952951,,,SL08: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL08: Indice des prix de la construction,M: Mensuelle,2020-05,3.15884514952951,,,SL08: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL08: Indice des prix de la construction,M: Mensuelle,2020-06,3.15884514952951,,,SL08: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL08: Indice des prix de la construction,M: Mensuelle,2020-07,3.0360950432287,,,SL08: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL08: Indice des prix de la construction,M: Mensuelle,2020-08,3.0360950432287,,,SL08: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL08: Indice des prix de la construction,M: Mensuelle,2020-09,3.0360950432287,,,SL08: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL08: Indice des prix de la construction,M: Mensuelle,2020-10,2.91349099894105,,,SL08: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL08: Indice des prix de la construction,M: Mensuelle,2020-11,2.91349099894105,,,SL08: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL08: Indice des prix de la construction,M: Mensuelle,2020-12,2.91349099894105,,,SL08: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL08: Indice des prix de la construction,M: Mensuelle,2021-01,4.05484776647025,,,SL08: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL08: Indice des prix de la construction,M: Mensuelle,2021-02,4.05484776647025,,,SL08: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL08: Indice des prix de la construction,M: Mensuelle,2021-03,4.05484776647025,,,SL08: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL08: Indice des prix de la construction,M: Mensuelle,2021-04,5.20886269240166,,,SL08: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL08: Indice des prix de la construction,M: Mensuelle,2021-05,5.20886269240166,,,SL08: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL08: Indice des prix de la construction,M: Mensuelle,2021-06,5.20886269240166,,,SL08: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL08: Indice des prix de la construction,M: Mensuelle,2021-07,7.24553600245972,,,SL08: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL08: Indice des prix de la construction,M: Mensuelle,2021-08,7.24553600245972,,,SL08: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL08: Indice des prix de la construction,M: Mensuelle,2021-09,7.24553600245972,,,SL08: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL08: Indice des prix de la construction,M: Mensuelle,2021-10,9.32163601161666,,,SL08: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL08: Indice des prix de la construction,M: Mensuelle,2021-11,9.32163601161666,,,SL08: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL08: Indice des prix de la construction,M: Mensuelle,2021-12,9.32163601161666,,,SL08: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL08: Indice des prix de la construction,M: Mensuelle,2022-01,11.5945015222466,,,SL08: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL08: Indice des prix de la construction,M: Mensuelle,2022-02,11.5945015222466,,,SL08: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL08: Indice des prix de la construction,M: Mensuelle,2022-03,11.5945015222466,,,SL08: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL08: Indice des prix de la construction,M: Mensuelle,2022-04,13.9146213351161,,,SL08: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL08: Indice des prix de la construction,M: Mensuelle,2022-05,13.9146213351161,,,SL08: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL08: Indice des prix de la construction,M: Mensuelle,2022-06,13.9146213351161,,,SL08: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL08: Indice des prix de la construction,M: Mensuelle,2022-07,14.923527516463,,,SL08: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL08: Indice des prix de la construction,M: Mensuelle,2022-08,14.923527516463,,,SL08: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL08: Indice des prix de la construction,M: Mensuelle,2022-09,14.923527516463,,,SL08: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL08: Indice des prix de la construction,M: Mensuelle,2022-10,15.9413692643845,,,SL08: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL08: Indice des prix de la construction,M: Mensuelle,2022-11,15.9413692643845,,,SL08: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL08: Indice des prix de la construction,M: Mensuelle,2022-12,15.9413692643845,,,SL08: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL08: Indice des prix de la construction,M: Mensuelle,2023-01,14.1140649490963,,,SL08: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL08: Indice des prix de la construction,M: Mensuelle,2023-02,14.1140649490963,,,SL08: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL08: Indice des prix de la construction,M: Mensuelle,2023-03,14.1140649490963,,,SL08: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL08: Indice des prix de la construction,M: Mensuelle,2023-04,12.3155600268276,,,SL08: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL08: Indice des prix de la construction,M: Mensuelle,2023-05,12.3155600268276,,,SL08: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL08: Indice des prix de la construction,M: Mensuelle,2023-06,12.3155600268276,,,SL08: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL08: Indice des prix de la construction,M: Mensuelle,2023-07,9.32971298279273,,,SL08: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL08: Indice des prix de la construction,M: Mensuelle,2023-08,9.32971298279273,,,SL08: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL08: Indice des prix de la construction,M: Mensuelle,2023-09,9.32971298279273,,,SL08: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL08: Indice des prix de la construction,M: Mensuelle,2023-10,6.42324303101689,,,SL08: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL08: Indice des prix de la construction,M: Mensuelle,2023-11,6.42324303101689,,,SL08: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL08: Indice des prix de la construction,M: Mensuelle,2023-12,6.42324303101689,,,SL08: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL08: Indice des prix de la construction,M: Mensuelle,2024-01,3.85150840911133,,,SL08: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL08: Indice des prix de la construction,M: Mensuelle,2024-02,3.85150840911133,,,SL08: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL08: Indice des prix de la construction,M: Mensuelle,2024-03,3.85150840911133,,,SL08: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL08: Indice des prix de la construction,M: Mensuelle,2024-04,,,,SL08: Définitions : Indice,,l: Non disponible,1: Un
+LU1:DF_E1100(1.0),SL06: Indice des produits pétroliers,M: Mensuelle,2020-01,6.59552536101629,,,SL06: Sous-série de l’indice général (IPCN) qui exclut notamment les prix pétroliers et d’autres prix qui se forment sur les marchés internationaux.Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL06: Indice des produits pétroliers,M: Mensuelle,2020-02,-0.895325280289594,,,SL06: Sous-série de l’indice général (IPCN) qui exclut notamment les prix pétroliers et d’autres prix qui se forment sur les marchés internationaux.Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL06: Indice des produits pétroliers,M: Mensuelle,2020-03,-10.0105841505289,,,SL06: Sous-série de l’indice général (IPCN) qui exclut notamment les prix pétroliers et d’autres prix qui se forment sur les marchés internationaux.Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL06: Indice des produits pétroliers,M: Mensuelle,2020-04,-21.1409882384663,,,SL06: Sous-série de l’indice général (IPCN) qui exclut notamment les prix pétroliers et d’autres prix qui se forment sur les marchés internationaux.Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL06: Indice des produits pétroliers,M: Mensuelle,2020-05,-25.2097793358526,,,SL06: Sous-série de l’indice général (IPCN) qui exclut notamment les prix pétroliers et d’autres prix qui se forment sur les marchés internationaux.Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL06: Indice des produits pétroliers,M: Mensuelle,2020-06,-16.1582947906156,,,SL06: Sous-série de l’indice général (IPCN) qui exclut notamment les prix pétroliers et d’autres prix qui se forment sur les marchés internationaux.Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL06: Indice des produits pétroliers,M: Mensuelle,2020-07,-13.5179638288905,,,SL06: Sous-série de l’indice général (IPCN) qui exclut notamment les prix pétroliers et d’autres prix qui se forment sur les marchés internationaux.Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL06: Indice des produits pétroliers,M: Mensuelle,2020-08,-14.3355996069113,,,SL06: Sous-série de l’indice général (IPCN) qui exclut notamment les prix pétroliers et d’autres prix qui se forment sur les marchés internationaux.Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL06: Indice des produits pétroliers,M: Mensuelle,2020-09,-16.8517385976755,,,SL06: Sous-série de l’indice général (IPCN) qui exclut notamment les prix pétroliers et d’autres prix qui se forment sur les marchés internationaux.Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL06: Indice des produits pétroliers,M: Mensuelle,2020-10,-16.9028097584589,,,SL06: Sous-série de l’indice général (IPCN) qui exclut notamment les prix pétroliers et d’autres prix qui se forment sur les marchés internationaux.Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL06: Indice des produits pétroliers,M: Mensuelle,2020-11,-17.6227742151035,,,SL06: Sous-série de l’indice général (IPCN) qui exclut notamment les prix pétroliers et d’autres prix qui se forment sur les marchés internationaux.Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL06: Indice des produits pétroliers,M: Mensuelle,2020-12,-14.7798339002025,,,SL06: Sous-série de l’indice général (IPCN) qui exclut notamment les prix pétroliers et d’autres prix qui se forment sur les marchés internationaux.Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL06: Indice des produits pétroliers,M: Mensuelle,2021-01,-8.35065118162502,,,SL06: Sous-série de l’indice général (IPCN) qui exclut notamment les prix pétroliers et d’autres prix qui se forment sur les marchés internationaux.Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL06: Indice des produits pétroliers,M: Mensuelle,2021-02,0.391748993164653,,,SL06: Sous-série de l’indice général (IPCN) qui exclut notamment les prix pétroliers et d’autres prix qui se forment sur les marchés internationaux.Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL06: Indice des produits pétroliers,M: Mensuelle,2021-03,12.9751615426293,,,SL06: Sous-série de l’indice général (IPCN) qui exclut notamment les prix pétroliers et d’autres prix qui se forment sur les marchés internationaux.Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL06: Indice des produits pétroliers,M: Mensuelle,2021-04,28.9221364895809,,,SL06: Sous-série de l’indice général (IPCN) qui exclut notamment les prix pétroliers et d’autres prix qui se forment sur les marchés internationaux.Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL06: Indice des produits pétroliers,M: Mensuelle,2021-05,35.4858222687193,,,SL06: Sous-série de l’indice général (IPCN) qui exclut notamment les prix pétroliers et d’autres prix qui se forment sur les marchés internationaux.Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL06: Indice des produits pétroliers,M: Mensuelle,2021-06,28.5794372405285,,,SL06: Sous-série de l’indice général (IPCN) qui exclut notamment les prix pétroliers et d’autres prix qui se forment sur les marchés internationaux.Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL06: Indice des produits pétroliers,M: Mensuelle,2021-07,28.309870298977,,,SL06: Sous-série de l’indice général (IPCN) qui exclut notamment les prix pétroliers et d’autres prix qui se forment sur les marchés internationaux.Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL06: Indice des produits pétroliers,M: Mensuelle,2021-08,29.9302682629481,,,SL06: Sous-série de l’indice général (IPCN) qui exclut notamment les prix pétroliers et d’autres prix qui se forment sur les marchés internationaux.Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL06: Indice des produits pétroliers,M: Mensuelle,2021-09,34.6191602256591,,,SL06: Sous-série de l’indice général (IPCN) qui exclut notamment les prix pétroliers et d’autres prix qui se forment sur les marchés internationaux.Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL06: Indice des produits pétroliers,M: Mensuelle,2021-10,48.5182927148693,,,SL06: Sous-série de l’indice général (IPCN) qui exclut notamment les prix pétroliers et d’autres prix qui se forment sur les marchés internationaux.Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL06: Indice des produits pétroliers,M: Mensuelle,2021-11,59.9591912474671,,,SL06: Sous-série de l’indice général (IPCN) qui exclut notamment les prix pétroliers et d’autres prix qui se forment sur les marchés internationaux.Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL06: Indice des produits pétroliers,M: Mensuelle,2021-12,46.9023822710429,,,SL06: Sous-série de l’indice général (IPCN) qui exclut notamment les prix pétroliers et d’autres prix qui se forment sur les marchés internationaux.Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL06: Indice des produits pétroliers,M: Mensuelle,2022-01,48.7216084028554,,,SL06: Sous-série de l’indice général (IPCN) qui exclut notamment les prix pétroliers et d’autres prix qui se forment sur les marchés internationaux.Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL06: Indice des produits pétroliers,M: Mensuelle,2022-02,51.7365478976909,,,SL06: Sous-série de l’indice général (IPCN) qui exclut notamment les prix pétroliers et d’autres prix qui se forment sur les marchés internationaux.Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL06: Indice des produits pétroliers,M: Mensuelle,2022-03,56.8778264858663,,,SL06: Sous-série de l’indice général (IPCN) qui exclut notamment les prix pétroliers et d’autres prix qui se forment sur les marchés internationaux.Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL06: Indice des produits pétroliers,M: Mensuelle,2022-04,59.1849140770233,,,SL06: Sous-série de l’indice général (IPCN) qui exclut notamment les prix pétroliers et d’autres prix qui se forment sur les marchés internationaux.Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL06: Indice des produits pétroliers,M: Mensuelle,2022-05,49.6725742202695,,,SL06: Sous-série de l’indice général (IPCN) qui exclut notamment les prix pétroliers et d’autres prix qui se forment sur les marchés internationaux.Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL06: Indice des produits pétroliers,M: Mensuelle,2022-06,56.326216200111,,,SL06: Sous-série de l’indice général (IPCN) qui exclut notamment les prix pétroliers et d’autres prix qui se forment sur les marchés internationaux.Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL06: Indice des produits pétroliers,M: Mensuelle,2022-07,43.5900669928183,,,SL06: Sous-série de l’indice général (IPCN) qui exclut notamment les prix pétroliers et d’autres prix qui se forment sur les marchés internationaux.Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL06: Indice des produits pétroliers,M: Mensuelle,2022-08,35.9984977159445,,,SL06: Sous-série de l’indice général (IPCN) qui exclut notamment les prix pétroliers et d’autres prix qui se forment sur les marchés internationaux.Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL06: Indice des produits pétroliers,M: Mensuelle,2022-09,37.352095075666,,,SL06: Sous-série de l’indice général (IPCN) qui exclut notamment les prix pétroliers et d’autres prix qui se forment sur les marchés internationaux.Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL06: Indice des produits pétroliers,M: Mensuelle,2022-10,35.1902711346713,,,SL06: Sous-série de l’indice général (IPCN) qui exclut notamment les prix pétroliers et d’autres prix qui se forment sur les marchés internationaux.Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL06: Indice des produits pétroliers,M: Mensuelle,2022-11,20.8788402547922,,,SL06: Sous-série de l’indice général (IPCN) qui exclut notamment les prix pétroliers et d’autres prix qui se forment sur les marchés internationaux.Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL06: Indice des produits pétroliers,M: Mensuelle,2022-12,15.8372246594489,,,SL06: Sous-série de l’indice général (IPCN) qui exclut notamment les prix pétroliers et d’autres prix qui se forment sur les marchés internationaux.Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL06: Indice des produits pétroliers,M: Mensuelle,2023-01,3.91499238706003,,,SL06: Sous-série de l’indice général (IPCN) qui exclut notamment les prix pétroliers et d’autres prix qui se forment sur les marchés internationaux.Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL06: Indice des produits pétroliers,M: Mensuelle,2023-02,-3.46788239549956,,,SL06: Sous-série de l’indice général (IPCN) qui exclut notamment les prix pétroliers et d’autres prix qui se forment sur les marchés internationaux.Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL06: Indice des produits pétroliers,M: Mensuelle,2023-03,-11.407607463488,,,SL06: Sous-série de l’indice général (IPCN) qui exclut notamment les prix pétroliers et d’autres prix qui se forment sur les marchés internationaux.Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL06: Indice des produits pétroliers,M: Mensuelle,2023-04,-13.5287978709658,,,SL06: Sous-série de l’indice général (IPCN) qui exclut notamment les prix pétroliers et d’autres prix qui se forment sur les marchés internationaux.Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL06: Indice des produits pétroliers,M: Mensuelle,2023-05,-13.8893284271865,,,SL06: Sous-série de l’indice général (IPCN) qui exclut notamment les prix pétroliers et d’autres prix qui se forment sur les marchés internationaux.Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL06: Indice des produits pétroliers,M: Mensuelle,2023-06,-17.3712013088163,,,SL06: Sous-série de l’indice général (IPCN) qui exclut notamment les prix pétroliers et d’autres prix qui se forment sur les marchés internationaux.Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL06: Indice des produits pétroliers,M: Mensuelle,2023-07,-12.8171923842515,,,SL06: Sous-série de l’indice général (IPCN) qui exclut notamment les prix pétroliers et d’autres prix qui se forment sur les marchés internationaux.Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL06: Indice des produits pétroliers,M: Mensuelle,2023-08,-1.30199289598141,,,SL06: Sous-série de l’indice général (IPCN) qui exclut notamment les prix pétroliers et d’autres prix qui se forment sur les marchés internationaux.Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL06: Indice des produits pétroliers,M: Mensuelle,2023-09,-0.63582248384888,,,SL06: Sous-série de l’indice général (IPCN) qui exclut notamment les prix pétroliers et d’autres prix qui se forment sur les marchés internationaux.Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL06: Indice des produits pétroliers,M: Mensuelle,2023-10,-10.8075649390428,,,SL06: Sous-série de l’indice général (IPCN) qui exclut notamment les prix pétroliers et d’autres prix qui se forment sur les marchés internationaux.Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL06: Indice des produits pétroliers,M: Mensuelle,2023-11,-9.24136699757583,,,SL06: Sous-série de l’indice général (IPCN) qui exclut notamment les prix pétroliers et d’autres prix qui se forment sur les marchés internationaux.Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL06: Indice des produits pétroliers,M: Mensuelle,2023-12,-4.43271972232469,,,SL06: Sous-série de l’indice général (IPCN) qui exclut notamment les prix pétroliers et d’autres prix qui se forment sur les marchés internationaux.Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL06: Indice des produits pétroliers,M: Mensuelle,2024-01,-4.40608300343364,,,SL06: Sous-série de l’indice général (IPCN) qui exclut notamment les prix pétroliers et d’autres prix qui se forment sur les marchés internationaux.Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL06: Indice des produits pétroliers,M: Mensuelle,2024-02,1.11883223197617,,,SL06: Sous-série de l’indice général (IPCN) qui exclut notamment les prix pétroliers et d’autres prix qui se forment sur les marchés internationaux.Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL06: Indice des produits pétroliers,M: Mensuelle,2024-03,1.04517065470386,,,SL06: Sous-série de l’indice général (IPCN) qui exclut notamment les prix pétroliers et d’autres prix qui se forment sur les marchés internationaux.Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL06: Indice des produits pétroliers,M: Mensuelle,2024-04,3.51186646895285,,,SL06: Sous-série de l’indice général (IPCN) qui exclut notamment les prix pétroliers et d’autres prix qui se forment sur les marchés internationaux.Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL04: Indice des prix à la consommation (IPCN),M: Mensuelle,2020-01,1.92913664765859,,,"SL04: Définitions : Indice des Prix à la Consommation National (IPCN), Indice",,,1: Un
+LU1:DF_E1100(1.0),SL04: Indice des prix à la consommation (IPCN),M: Mensuelle,2020-02,1.6782469322103,,,"SL04: Définitions : Indice des Prix à la Consommation National (IPCN), Indice",,,1: Un
+LU1:DF_E1100(1.0),SL04: Indice des prix à la consommation (IPCN),M: Mensuelle,2020-03,0.859226231063803,,,"SL04: Définitions : Indice des Prix à la Consommation National (IPCN), Indice",,,1: Un
+LU1:DF_E1100(1.0),SL04: Indice des prix à la consommation (IPCN),M: Mensuelle,2020-04,0.60922136497592,,,"SL04: Définitions : Indice des Prix à la Consommation National (IPCN), Indice",,,1: Un
+LU1:DF_E1100(1.0),SL04: Indice des prix à la consommation (IPCN),M: Mensuelle,2020-05,0.192745496401736,,,"SL04: Définitions : Indice des Prix à la Consommation National (IPCN), Indice",,,1: Un
+LU1:DF_E1100(1.0),SL04: Indice des prix à la consommation (IPCN),M: Mensuelle,2020-06,0.740765133616383,,,"SL04: Définitions : Indice des Prix à la Consommation National (IPCN), Indice",,,1: Un
+LU1:DF_E1100(1.0),SL04: Indice des prix à la consommation (IPCN),M: Mensuelle,2020-07,0.952490097010106,,,"SL04: Définitions : Indice des Prix à la Consommation National (IPCN), Indice",,,1: Un
+LU1:DF_E1100(1.0),SL04: Indice des prix à la consommation (IPCN),M: Mensuelle,2020-08,0.585557498671441,,,"SL04: Définitions : Indice des Prix à la Consommation National (IPCN), Indice",,,1: Un
+LU1:DF_E1100(1.0),SL04: Indice des prix à la consommation (IPCN),M: Mensuelle,2020-09,0.67969464360742,,,"SL04: Définitions : Indice des Prix à la Consommation National (IPCN), Indice",,,1: Un
+LU1:DF_E1100(1.0),SL04: Indice des prix à la consommation (IPCN),M: Mensuelle,2020-10,0.662574247223091,,,"SL04: Définitions : Indice des Prix à la Consommation National (IPCN), Indice",,,1: Un
+LU1:DF_E1100(1.0),SL04: Indice des prix à la consommation (IPCN),M: Mensuelle,2020-11,0.413706635197109,,,"SL04: Définitions : Indice des Prix à la Consommation National (IPCN), Indice",,,1: Un
+LU1:DF_E1100(1.0),SL04: Indice des prix à la consommation (IPCN),M: Mensuelle,2020-12,0.556680375503515,,,"SL04: Définitions : Indice des Prix à la Consommation National (IPCN), Indice",,,1: Un
+LU1:DF_E1100(1.0),SL04: Indice des prix à la consommation (IPCN),M: Mensuelle,2021-01,1.88260999243377,,,"SL04: Définitions : Indice des Prix à la Consommation National (IPCN), Indice",,,1: Un
+LU1:DF_E1100(1.0),SL04: Indice des prix à la consommation (IPCN),M: Mensuelle,2021-02,-0.0908754320385063,,,"SL04: Définitions : Indice des Prix à la Consommation National (IPCN), Indice",,,1: Un
+LU1:DF_E1100(1.0),SL04: Indice des prix à la consommation (IPCN),M: Mensuelle,2021-03,1.97558219685239,,,"SL04: Définitions : Indice des Prix à la Consommation National (IPCN), Indice",,,1: Un
+LU1:DF_E1100(1.0),SL04: Indice des prix à la consommation (IPCN),M: Mensuelle,2021-04,2.08877420616722,,,"SL04: Définitions : Indice des Prix à la Consommation National (IPCN), Indice",,,1: Un
+LU1:DF_E1100(1.0),SL04: Indice des prix à la consommation (IPCN),M: Mensuelle,2021-05,2.5275580490929,,,"SL04: Définitions : Indice des Prix à la Consommation National (IPCN), Indice",,,1: Un
+LU1:DF_E1100(1.0),SL04: Indice des prix à la consommation (IPCN),M: Mensuelle,2021-06,2.20260057989399,,,"SL04: Définitions : Indice des Prix à la Consommation National (IPCN), Indice",,,1: Un
+LU1:DF_E1100(1.0),SL04: Indice des prix à la consommation (IPCN),M: Mensuelle,2021-07,2.29998646681973,,,"SL04: Définitions : Indice des Prix à la Consommation National (IPCN), Indice",,,1: Un
+LU1:DF_E1100(1.0),SL04: Indice des prix à la consommation (IPCN),M: Mensuelle,2021-08,2.46276126995726,,,"SL04: Définitions : Indice des Prix à la Consommation National (IPCN), Indice",,,1: Un
+LU1:DF_E1100(1.0),SL04: Indice des prix à la consommation (IPCN),M: Mensuelle,2021-09,2.67142665292994,,,"SL04: Définitions : Indice des Prix à la Consommation National (IPCN), Indice",,,1: Un
+LU1:DF_E1100(1.0),SL04: Indice des prix à la consommation (IPCN),M: Mensuelle,2021-10,3.61535986798449,,,"SL04: Définitions : Indice des Prix à la Consommation National (IPCN), Indice",,,1: Un
+LU1:DF_E1100(1.0),SL04: Indice des prix à la consommation (IPCN),M: Mensuelle,2021-11,4.52610155980788,,,"SL04: Définitions : Indice des Prix à la Consommation National (IPCN), Indice",,,1: Un
+LU1:DF_E1100(1.0),SL04: Indice des prix à la consommation (IPCN),M: Mensuelle,2021-12,4.14369830115131,,,"SL04: Définitions : Indice des Prix à la Consommation National (IPCN), Indice",,,1: Un
+LU1:DF_E1100(1.0),SL04: Indice des prix à la consommation (IPCN),M: Mensuelle,2022-01,3.57091644449403,,,"SL04: Définitions : Indice des Prix à la Consommation National (IPCN), Indice",,,1: Un
+LU1:DF_E1100(1.0),SL04: Indice des prix à la consommation (IPCN),M: Mensuelle,2022-02,6.56245811798255,,,"SL04: Définitions : Indice des Prix à la Consommation National (IPCN), Indice",,,1: Un
+LU1:DF_E1100(1.0),SL04: Indice des prix à la consommation (IPCN),M: Mensuelle,2022-03,6.14799585095751,,,"SL04: Définitions : Indice des Prix à la Consommation National (IPCN), Indice",,,1: Un
+LU1:DF_E1100(1.0),SL04: Indice des prix à la consommation (IPCN),M: Mensuelle,2022-04,6.95949945619545,,,"SL04: Définitions : Indice des Prix à la Consommation National (IPCN), Indice",,,1: Un
+LU1:DF_E1100(1.0),SL04: Indice des prix à la consommation (IPCN),M: Mensuelle,2022-05,6.79871952384057,,,"SL04: Définitions : Indice des Prix à la Consommation National (IPCN), Indice",,,1: Un
+LU1:DF_E1100(1.0),SL04: Indice des prix à la consommation (IPCN),M: Mensuelle,2022-06,7.42829481087437,,,"SL04: Définitions : Indice des Prix à la Consommation National (IPCN), Indice",,,1: Un
+LU1:DF_E1100(1.0),SL04: Indice des prix à la consommation (IPCN),M: Mensuelle,2022-07,6.75999806635534,,,"SL04: Définitions : Indice des Prix à la Consommation National (IPCN), Indice",,,1: Un
+LU1:DF_E1100(1.0),SL04: Indice des prix à la consommation (IPCN),M: Mensuelle,2022-08,6.75839783058578,,,"SL04: Définitions : Indice des Prix à la Consommation National (IPCN), Indice",,,1: Un
+LU1:DF_E1100(1.0),SL04: Indice des prix à la consommation (IPCN),M: Mensuelle,2022-09,6.88299428547088,,,"SL04: Définitions : Indice des Prix à la Consommation National (IPCN), Indice",,,1: Un
+LU1:DF_E1100(1.0),SL04: Indice des prix à la consommation (IPCN),M: Mensuelle,2022-10,6.85280834590305,,,"SL04: Définitions : Indice des Prix à la Consommation National (IPCN), Indice",,,1: Un
+LU1:DF_E1100(1.0),SL04: Indice des prix à la consommation (IPCN),M: Mensuelle,2022-11,5.93592520878592,,,"SL04: Définitions : Indice des Prix à la Consommation National (IPCN), Indice",,,1: Un
+LU1:DF_E1100(1.0),SL04: Indice des prix à la consommation (IPCN),M: Mensuelle,2022-12,5.3774253531881,,,"SL04: Définitions : Indice des Prix à la Consommation National (IPCN), Indice",,,1: Un
+LU1:DF_E1100(1.0),SL04: Indice des prix à la consommation (IPCN),M: Mensuelle,2023-01,4.82883426996217,,,"SL04: Définitions : Indice des Prix à la Consommation National (IPCN), Indice",,,1: Un
+LU1:DF_E1100(1.0),SL04: Indice des prix à la consommation (IPCN),M: Mensuelle,2023-02,4.31991066448854,,,"SL04: Définitions : Indice des Prix à la Consommation National (IPCN), Indice",,,1: Un
+LU1:DF_E1100(1.0),SL04: Indice des prix à la consommation (IPCN),M: Mensuelle,2023-03,3.59794361135801,,,"SL04: Définitions : Indice des Prix à la Consommation National (IPCN), Indice",,,1: Un
+LU1:DF_E1100(1.0),SL04: Indice des prix à la consommation (IPCN),M: Mensuelle,2023-04,3.69222677151893,,,"SL04: Définitions : Indice des Prix à la Consommation National (IPCN), Indice",,,1: Un
+LU1:DF_E1100(1.0),SL04: Indice des prix à la consommation (IPCN),M: Mensuelle,2023-05,3.62100201449935,,,"SL04: Définitions : Indice des Prix à la Consommation National (IPCN), Indice",,,1: Un
+LU1:DF_E1100(1.0),SL04: Indice des prix à la consommation (IPCN),M: Mensuelle,2023-06,3.17943185092293,,,"SL04: Définitions : Indice des Prix à la Consommation National (IPCN), Indice",,,1: Un
+LU1:DF_E1100(1.0),SL04: Indice des prix à la consommation (IPCN),M: Mensuelle,2023-07,3.74582669841097,,,"SL04: Définitions : Indice des Prix à la Consommation National (IPCN), Indice",,,1: Un
+LU1:DF_E1100(1.0),SL04: Indice des prix à la consommation (IPCN),M: Mensuelle,2023-08,4.24212657179197,,,"SL04: Définitions : Indice des Prix à la Consommation National (IPCN), Indice",,,1: Un
+LU1:DF_E1100(1.0),SL04: Indice des prix à la consommation (IPCN),M: Mensuelle,2023-09,4.04578073121684,,,"SL04: Définitions : Indice des Prix à la Consommation National (IPCN), Indice",,,1: Un
+LU1:DF_E1100(1.0),SL04: Indice des prix à la consommation (IPCN),M: Mensuelle,2023-10,3.1626581194963,,,"SL04: Définitions : Indice des Prix à la Consommation National (IPCN), Indice",,,1: Un
+LU1:DF_E1100(1.0),SL04: Indice des prix à la consommation (IPCN),M: Mensuelle,2023-11,3.02958380680187,,,"SL04: Définitions : Indice des Prix à la Consommation National (IPCN), Indice",,,1: Un
+LU1:DF_E1100(1.0),SL04: Indice des prix à la consommation (IPCN),M: Mensuelle,2023-12,3.51109637265929,,,"SL04: Définitions : Indice des Prix à la Consommation National (IPCN), Indice",,,1: Un
+LU1:DF_E1100(1.0),SL04: Indice des prix à la consommation (IPCN),M: Mensuelle,2024-01,3.4,,,"SL04: Définitions : Indice des Prix à la Consommation National (IPCN), Indice",,,1: Un
+LU1:DF_E1100(1.0),SL04: Indice des prix à la consommation (IPCN),M: Mensuelle,2024-02,3.19187891345198,,,"SL04: Définitions : Indice des Prix à la Consommation National (IPCN), Indice",,,1: Un
+LU1:DF_E1100(1.0),SL04: Indice des prix à la consommation (IPCN),M: Mensuelle,2024-03,3.08818546895682,,,"SL04: Définitions : Indice des Prix à la Consommation National (IPCN), Indice",,,1: Un
+LU1:DF_E1100(1.0),SL04: Indice des prix à la consommation (IPCN),M: Mensuelle,2024-04,2.40082505349735,,,"SL04: Définitions : Indice des Prix à la Consommation National (IPCN), Indice",,,1: Un
+LU1:DF_E1100(1.0),SL07: Indice des prix à la production industrielle,M: Mensuelle,2020-01,-1.83033767734523,,,SL07: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL07: Indice des prix à la production industrielle,M: Mensuelle,2020-02,-0.821506688315687,,,SL07: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL07: Indice des prix à la production industrielle,M: Mensuelle,2020-03,-2.48032729426428,,,SL07: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL07: Indice des prix à la production industrielle,M: Mensuelle,2020-04,-0.156228674419767,,,SL07: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL07: Indice des prix à la production industrielle,M: Mensuelle,2020-05,2.33267484708097,,,SL07: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL07: Indice des prix à la production industrielle,M: Mensuelle,2020-06,3.53796120375218,,,SL07: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL07: Indice des prix à la production industrielle,M: Mensuelle,2020-07,0.0371609712223275,,,SL07: Définitions : Indice,,n: Inférieur à la moitié de l'unité employée,1: Un
+LU1:DF_E1100(1.0),SL07: Indice des prix à la production industrielle,M: Mensuelle,2020-08,-3.80383539177329,,,SL07: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL07: Indice des prix à la production industrielle,M: Mensuelle,2020-09,-4.62564066431962,,,SL07: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL07: Indice des prix à la production industrielle,M: Mensuelle,2020-10,-5.40001395510573,,,SL07: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL07: Indice des prix à la production industrielle,M: Mensuelle,2020-11,-5.10958238063858,,,SL07: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL07: Indice des prix à la production industrielle,M: Mensuelle,2020-12,-4.95563372997732,,,SL07: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL07: Indice des prix à la production industrielle,M: Mensuelle,2021-01,-1.41305208529728,,,SL07: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL07: Indice des prix à la production industrielle,M: Mensuelle,2021-02,1.40502750759921,,,SL07: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL07: Indice des prix à la production industrielle,M: Mensuelle,2021-03,3.57365603873447,,,SL07: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL07: Indice des prix à la production industrielle,M: Mensuelle,2021-04,3.00073854631642,,,SL07: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL07: Indice des prix à la production industrielle,M: Mensuelle,2021-05,2.73911519373511,,,SL07: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL07: Indice des prix à la production industrielle,M: Mensuelle,2021-06,4.51635406371453,,,SL07: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL07: Indice des prix à la production industrielle,M: Mensuelle,2021-07,11.1425597231794,,,SL07: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL07: Indice des prix à la production industrielle,M: Mensuelle,2021-08,17.7500639042843,,,SL07: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL07: Indice des prix à la production industrielle,M: Mensuelle,2021-09,21.678989471036,,,SL07: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL07: Indice des prix à la production industrielle,M: Mensuelle,2021-10,22.7188446372161,,,SL07: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL07: Indice des prix à la production industrielle,M: Mensuelle,2021-11,25.3413649789546,,,SL07: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL07: Indice des prix à la production industrielle,M: Mensuelle,2021-12,26.3326535466901,,,SL07: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL07: Indice des prix à la production industrielle,M: Mensuelle,2022-01,25.6807118840465,,,SL07: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL07: Indice des prix à la production industrielle,M: Mensuelle,2022-02,24.4226968543439,,,SL07: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL07: Indice des prix à la production industrielle,M: Mensuelle,2022-03,24.8246040899889,,,SL07: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL07: Indice des prix à la production industrielle,M: Mensuelle,2022-04,30.2793411720488,,,SL07: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL07: Indice des prix à la production industrielle,M: Mensuelle,2022-05,32.841592635515,,,SL07: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL07: Indice des prix à la production industrielle,M: Mensuelle,2022-06,30.0717694142829,,,SL07: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL07: Indice des prix à la production industrielle,M: Mensuelle,2022-07,29.6770917662281,,,SL07: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL07: Indice des prix à la production industrielle,M: Mensuelle,2022-08,25.8659967674603,,,SL07: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL07: Indice des prix à la production industrielle,M: Mensuelle,2022-09,22.5459479396716,,,SL07: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL07: Indice des prix à la production industrielle,M: Mensuelle,2022-10,22.981145683844,,,SL07: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL07: Indice des prix à la production industrielle,M: Mensuelle,2022-11,20.3476214244265,,,SL07: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL07: Indice des prix à la production industrielle,M: Mensuelle,2022-12,19.0272543468175,,,SL07: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL07: Indice des prix à la production industrielle,M: Mensuelle,2023-01,17.670630101882,,,SL07: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL07: Indice des prix à la production industrielle,M: Mensuelle,2023-02,12.9792072637426,,,SL07: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL07: Indice des prix à la production industrielle,M: Mensuelle,2023-03,9.74638884342589,,,SL07: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL07: Indice des prix à la production industrielle,M: Mensuelle,2023-04,2.53407888046113,,,SL07: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL07: Indice des prix à la production industrielle,M: Mensuelle,2023-05,-1.40407300603065,,,SL07: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL07: Indice des prix à la production industrielle,M: Mensuelle,2023-06,-3.79813961058461,,,SL07: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL07: Indice des prix à la production industrielle,M: Mensuelle,2023-07,1.88860517114706,,,SL07: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL07: Indice des prix à la production industrielle,M: Mensuelle,2023-08,1.56351862518123,,,SL07: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL07: Indice des prix à la production industrielle,M: Mensuelle,2023-09,1.45179204131289,,,SL07: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL07: Indice des prix à la production industrielle,M: Mensuelle,2023-10,-2.3783395430497,,,SL07: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL07: Indice des prix à la production industrielle,M: Mensuelle,2023-11,-1.41152708155401,,,SL07: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL07: Indice des prix à la production industrielle,M: Mensuelle,2023-12,-1.62430370877465,,,SL07: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL07: Indice des prix à la production industrielle,M: Mensuelle,2024-01,-2.55258212860071,,,SL07: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL07: Indice des prix à la production industrielle,M: Mensuelle,2024-02,-0.987913866768864,,,SL07: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL07: Indice des prix à la production industrielle,M: Mensuelle,2024-03,-0.751501938669363,,,SL07: Définitions : Indice,,,1: Un
+LU1:DF_E1100(1.0),SL07: Indice des prix à la production industrielle,M: Mensuelle,2024-04,,,,SL07: Définitions : Indice,,l: Non disponible,1: Un
+LU1:DF_E1100(1.0),SL10: Exportations de biens en volume,M: Mensuelle,2020-01,-3.60803243851198,,,"SL10: Source: Inspection Générale de la Sécurité Sociale (IGSS). Définitions : Exportations de biens et de services (P.6), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL10: Exportations de biens en volume,M: Mensuelle,2020-02,0.149972307371371,,,"SL10: Source: Inspection Générale de la Sécurité Sociale (IGSS). Définitions : Exportations de biens et de services (P.6), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL10: Exportations de biens en volume,M: Mensuelle,2020-03,-12.1105337332102,,,"SL10: Source: Inspection Générale de la Sécurité Sociale (IGSS). Définitions : Exportations de biens et de services (P.6), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL10: Exportations de biens en volume,M: Mensuelle,2020-04,-36.0944526726537,,,"SL10: Source: Inspection Générale de la Sécurité Sociale (IGSS). Définitions : Exportations de biens et de services (P.6), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL10: Exportations de biens en volume,M: Mensuelle,2020-05,-20.4427837198022,,,"SL10: Source: Inspection Générale de la Sécurité Sociale (IGSS). Définitions : Exportations de biens et de services (P.6), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL10: Exportations de biens en volume,M: Mensuelle,2020-06,-6.17378518385193,,,"SL10: Source: Inspection Générale de la Sécurité Sociale (IGSS). Définitions : Exportations de biens et de services (P.6), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL10: Exportations de biens en volume,M: Mensuelle,2020-07,-4.85699902109916,,,"SL10: Source: Inspection Générale de la Sécurité Sociale (IGSS). Définitions : Exportations de biens et de services (P.6), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL10: Exportations de biens en volume,M: Mensuelle,2020-08,-7.70641993088563,,,"SL10: Source: Inspection Générale de la Sécurité Sociale (IGSS). Définitions : Exportations de biens et de services (P.6), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL10: Exportations de biens en volume,M: Mensuelle,2020-09,0.987792321811343,,,"SL10: Source: Inspection Générale de la Sécurité Sociale (IGSS). Définitions : Exportations de biens et de services (P.6), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL10: Exportations de biens en volume,M: Mensuelle,2020-10,-6.46619392555265,,,"SL10: Source: Inspection Générale de la Sécurité Sociale (IGSS). Définitions : Exportations de biens et de services (P.6), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL10: Exportations de biens en volume,M: Mensuelle,2020-11,4.35205228652669,,,"SL10: Source: Inspection Générale de la Sécurité Sociale (IGSS). Définitions : Exportations de biens et de services (P.6), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL10: Exportations de biens en volume,M: Mensuelle,2020-12,12.1944795321174,,,"SL10: Source: Inspection Générale de la Sécurité Sociale (IGSS). Définitions : Exportations de biens et de services (P.6), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL10: Exportations de biens en volume,M: Mensuelle,2021-01,-7.45302234660939,,,"SL10: Source: Inspection Générale de la Sécurité Sociale (IGSS). Définitions : Exportations de biens et de services (P.6), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL10: Exportations de biens en volume,M: Mensuelle,2021-02,-4.57092448450812,,,"SL10: Source: Inspection Générale de la Sécurité Sociale (IGSS). Définitions : Exportations de biens et de services (P.6), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL10: Exportations de biens en volume,M: Mensuelle,2021-03,17.7669881615503,,,"SL10: Source: Inspection Générale de la Sécurité Sociale (IGSS). Définitions : Exportations de biens et de services (P.6), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL10: Exportations de biens en volume,M: Mensuelle,2021-04,41.9468235863409,,,"SL10: Source: Inspection Générale de la Sécurité Sociale (IGSS). Définitions : Exportations de biens et de services (P.6), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL10: Exportations de biens en volume,M: Mensuelle,2021-05,13.5282244162916,,,"SL10: Source: Inspection Générale de la Sécurité Sociale (IGSS). Définitions : Exportations de biens et de services (P.6), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL10: Exportations de biens en volume,M: Mensuelle,2021-06,11.5215417650168,,,"SL10: Source: Inspection Générale de la Sécurité Sociale (IGSS). Définitions : Exportations de biens et de services (P.6), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL10: Exportations de biens en volume,M: Mensuelle,2021-07,-0.871184771513123,,,"SL10: Source: Inspection Générale de la Sécurité Sociale (IGSS). Définitions : Exportations de biens et de services (P.6), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL10: Exportations de biens en volume,M: Mensuelle,2021-08,7.79160384553095,,,"SL10: Source: Inspection Générale de la Sécurité Sociale (IGSS). Définitions : Exportations de biens et de services (P.6), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL10: Exportations de biens en volume,M: Mensuelle,2021-09,-2.78920978429537,,,"SL10: Source: Inspection Générale de la Sécurité Sociale (IGSS). Définitions : Exportations de biens et de services (P.6), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL10: Exportations de biens en volume,M: Mensuelle,2021-10,-8.608896630826,,,"SL10: Source: Inspection Générale de la Sécurité Sociale (IGSS). Définitions : Exportations de biens et de services (P.6), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL10: Exportations de biens en volume,M: Mensuelle,2021-11,-2.1239225538901,,,"SL10: Source: Inspection Générale de la Sécurité Sociale (IGSS). Définitions : Exportations de biens et de services (P.6), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL10: Exportations de biens en volume,M: Mensuelle,2021-12,1.36873239327555,,,"SL10: Source: Inspection Générale de la Sécurité Sociale (IGSS). Définitions : Exportations de biens et de services (P.6), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL10: Exportations de biens en volume,M: Mensuelle,2022-01,-1.76198603263354,,,"SL10: Source: Inspection Générale de la Sécurité Sociale (IGSS). Définitions : Exportations de biens et de services (P.6), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL10: Exportations de biens en volume,M: Mensuelle,2022-02,0.856572048236148,,,"SL10: Source: Inspection Générale de la Sécurité Sociale (IGSS). Définitions : Exportations de biens et de services (P.6), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL10: Exportations de biens en volume,M: Mensuelle,2022-03,-2.44525989964308,,,"SL10: Source: Inspection Générale de la Sécurité Sociale (IGSS). Définitions : Exportations de biens et de services (P.6), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL10: Exportations de biens en volume,M: Mensuelle,2022-04,-10.5945353314693,,,"SL10: Source: Inspection Générale de la Sécurité Sociale (IGSS). Définitions : Exportations de biens et de services (P.6), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL10: Exportations de biens en volume,M: Mensuelle,2022-05,0.787889586925372,,,"SL10: Source: Inspection Générale de la Sécurité Sociale (IGSS). Définitions : Exportations de biens et de services (P.6), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL10: Exportations de biens en volume,M: Mensuelle,2022-06,-4.71377001245796,,,"SL10: Source: Inspection Générale de la Sécurité Sociale (IGSS). Définitions : Exportations de biens et de services (P.6), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL10: Exportations de biens en volume,M: Mensuelle,2022-07,-10.6564236870046,,,"SL10: Source: Inspection Générale de la Sécurité Sociale (IGSS). Définitions : Exportations de biens et de services (P.6), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL10: Exportations de biens en volume,M: Mensuelle,2022-08,2.07897117870834,,,"SL10: Source: Inspection Générale de la Sécurité Sociale (IGSS). Définitions : Exportations de biens et de services (P.6), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL10: Exportations de biens en volume,M: Mensuelle,2022-09,-0.594024426275497,,,"SL10: Source: Inspection Générale de la Sécurité Sociale (IGSS). Définitions : Exportations de biens et de services (P.6), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL10: Exportations de biens en volume,M: Mensuelle,2022-10,-0.643802827698015,,,"SL10: Source: Inspection Générale de la Sécurité Sociale (IGSS). Définitions : Exportations de biens et de services (P.6), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL10: Exportations de biens en volume,M: Mensuelle,2022-11,-0.878470168931855,,,"SL10: Source: Inspection Générale de la Sécurité Sociale (IGSS). Définitions : Exportations de biens et de services (P.6), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL10: Exportations de biens en volume,M: Mensuelle,2022-12,-8.4923058600926,,,"SL10: Source: Inspection Générale de la Sécurité Sociale (IGSS). Définitions : Exportations de biens et de services (P.6), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL10: Exportations de biens en volume,M: Mensuelle,2023-01,3.07756942986266,,,"SL10: Source: Inspection Générale de la Sécurité Sociale (IGSS). Définitions : Exportations de biens et de services (P.6), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL10: Exportations de biens en volume,M: Mensuelle,2023-02,-1.44698622684516,,,"SL10: Source: Inspection Générale de la Sécurité Sociale (IGSS). Définitions : Exportations de biens et de services (P.6), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL10: Exportations de biens en volume,M: Mensuelle,2023-03,1.28126879443478,,,"SL10: Source: Inspection Générale de la Sécurité Sociale (IGSS). Définitions : Exportations de biens et de services (P.6), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL10: Exportations de biens en volume,M: Mensuelle,2023-04,2.62370528750164,,,"SL10: Source: Inspection Générale de la Sécurité Sociale (IGSS). Définitions : Exportations de biens et de services (P.6), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL10: Exportations de biens en volume,M: Mensuelle,2023-05,-2.70770639300321,,,"SL10: Source: Inspection Générale de la Sécurité Sociale (IGSS). Définitions : Exportations de biens et de services (P.6), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL10: Exportations de biens en volume,M: Mensuelle,2023-06,-0.186277986707284,,,"SL10: Source: Inspection Générale de la Sécurité Sociale (IGSS). Définitions : Exportations de biens et de services (P.6), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL10: Exportations de biens en volume,M: Mensuelle,2023-07,6.12274306762335,,,"SL10: Source: Inspection Générale de la Sécurité Sociale (IGSS). Définitions : Exportations de biens et de services (P.6), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL10: Exportations de biens en volume,M: Mensuelle,2023-08,0.553948265497972,,,"SL10: Source: Inspection Générale de la Sécurité Sociale (IGSS). Définitions : Exportations de biens et de services (P.6), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL10: Exportations de biens en volume,M: Mensuelle,2023-09,-0.701667764042224,,,"SL10: Source: Inspection Générale de la Sécurité Sociale (IGSS). Définitions : Exportations de biens et de services (P.6), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL10: Exportations de biens en volume,M: Mensuelle,2023-10,5.13167523863534,,,"SL10: Source: Inspection Générale de la Sécurité Sociale (IGSS). Définitions : Exportations de biens et de services (P.6), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL10: Exportations de biens en volume,M: Mensuelle,2023-11,-0.407563435719871,,,"SL10: Source: Inspection Générale de la Sécurité Sociale (IGSS). Définitions : Exportations de biens et de services (P.6), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL10: Exportations de biens en volume,M: Mensuelle,2023-12,-7.90386330074443,,,"SL10: Source: Inspection Générale de la Sécurité Sociale (IGSS). Définitions : Exportations de biens et de services (P.6), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL10: Exportations de biens en volume,M: Mensuelle,2024-01,-0.341583327656791,,,"SL10: Source: Inspection Générale de la Sécurité Sociale (IGSS). Définitions : Exportations de biens et de services (P.6), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL10: Exportations de biens en volume,M: Mensuelle,2024-02,1.33460183984251,,,"SL10: Source: Inspection Générale de la Sécurité Sociale (IGSS). Définitions : Exportations de biens et de services (P.6), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL10: Exportations de biens en volume,M: Mensuelle,2024-03,-8.38696271468542,,,"SL10: Source: Inspection Générale de la Sécurité Sociale (IGSS). Définitions : Exportations de biens et de services (P.6), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL10: Exportations de biens en volume,M: Mensuelle,2024-04,,,,"SL10: Source: Inspection Générale de la Sécurité Sociale (IGSS). Définitions : Exportations de biens et de services (P.6), Biens",,l: Non disponible,1: Un
+LU1:DF_E1100(1.0),L01: Activité,M: Mensuelle,2020-01,,,,"L01: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L01: Activité,M: Mensuelle,2020-02,,,,"L01: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L01: Activité,M: Mensuelle,2020-03,,,,"L01: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L01: Activité,M: Mensuelle,2020-04,,,,"L01: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L01: Activité,M: Mensuelle,2020-05,,,,"L01: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L01: Activité,M: Mensuelle,2020-06,,,,"L01: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L01: Activité,M: Mensuelle,2020-07,,,,"L01: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L01: Activité,M: Mensuelle,2020-08,,,,"L01: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L01: Activité,M: Mensuelle,2020-09,,,,"L01: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L01: Activité,M: Mensuelle,2020-10,,,,"L01: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L01: Activité,M: Mensuelle,2020-11,,,,"L01: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L01: Activité,M: Mensuelle,2020-12,,,,"L01: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L01: Activité,M: Mensuelle,2021-01,,,,"L01: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L01: Activité,M: Mensuelle,2021-02,,,,"L01: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L01: Activité,M: Mensuelle,2021-03,,,,"L01: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L01: Activité,M: Mensuelle,2021-04,,,,"L01: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L01: Activité,M: Mensuelle,2021-05,,,,"L01: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L01: Activité,M: Mensuelle,2021-06,,,,"L01: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L01: Activité,M: Mensuelle,2021-07,,,,"L01: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L01: Activité,M: Mensuelle,2021-08,,,,"L01: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L01: Activité,M: Mensuelle,2021-09,,,,"L01: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L01: Activité,M: Mensuelle,2021-10,,,,"L01: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L01: Activité,M: Mensuelle,2021-11,,,,"L01: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L01: Activité,M: Mensuelle,2021-12,,,,"L01: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L01: Activité,M: Mensuelle,2022-01,,,,"L01: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L01: Activité,M: Mensuelle,2022-02,,,,"L01: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L01: Activité,M: Mensuelle,2022-03,,,,"L01: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L01: Activité,M: Mensuelle,2022-04,,,,"L01: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L01: Activité,M: Mensuelle,2022-05,,,,"L01: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L01: Activité,M: Mensuelle,2022-06,,,,"L01: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L01: Activité,M: Mensuelle,2022-07,,,,"L01: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L01: Activité,M: Mensuelle,2022-08,,,,"L01: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L01: Activité,M: Mensuelle,2022-09,,,,"L01: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L01: Activité,M: Mensuelle,2022-10,,,,"L01: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L01: Activité,M: Mensuelle,2022-11,,,,"L01: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L01: Activité,M: Mensuelle,2022-12,,,,"L01: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L01: Activité,M: Mensuelle,2023-01,,,,"L01: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L01: Activité,M: Mensuelle,2023-02,,,,"L01: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L01: Activité,M: Mensuelle,2023-03,,,,"L01: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L01: Activité,M: Mensuelle,2023-04,,,,"L01: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L01: Activité,M: Mensuelle,2023-05,,,,"L01: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L01: Activité,M: Mensuelle,2023-06,,,,"L01: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L01: Activité,M: Mensuelle,2023-07,,,,"L01: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L01: Activité,M: Mensuelle,2023-08,,,,"L01: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L01: Activité,M: Mensuelle,2023-09,,,,"L01: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L01: Activité,M: Mensuelle,2023-10,,,,"L01: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L01: Activité,M: Mensuelle,2023-11,,,,"L01: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L01: Activité,M: Mensuelle,2023-12,,,,"L01: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L01: Activité,M: Mensuelle,2024-01,,,,"L01: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L01: Activité,M: Mensuelle,2024-02,,,,"L01: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L01: Activité,M: Mensuelle,2024-03,,,,"L01: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L01: Activité,M: Mensuelle,2024-04,,,,"L01: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),SL13: Emploi national,M: Mensuelle,2020-01,2.75039016832057,,,SL13: Définitions : Emploi national,,,1: Un
+LU1:DF_E1100(1.0),SL13: Emploi national,M: Mensuelle,2020-02,2.62507862466179,,,SL13: Définitions : Emploi national,,,1: Un
+LU1:DF_E1100(1.0),SL13: Emploi national,M: Mensuelle,2020-03,1.53157597491513,,,SL13: Définitions : Emploi national,,,1: Un
+LU1:DF_E1100(1.0),SL13: Emploi national,M: Mensuelle,2020-04,0.846880639650549,,,SL13: Définitions : Emploi national,,,1: Un
+LU1:DF_E1100(1.0),SL13: Emploi national,M: Mensuelle,2020-05,1.57528380149743,,,SL13: Définitions : Emploi national,,,1: Un
+LU1:DF_E1100(1.0),SL13: Emploi national,M: Mensuelle,2020-06,1.26170924390165,,,SL13: Définitions : Emploi national,,,1: Un
+LU1:DF_E1100(1.0),SL13: Emploi national,M: Mensuelle,2020-07,1.5335830072946,,,SL13: Définitions : Emploi national,,,1: Un
+LU1:DF_E1100(1.0),SL13: Emploi national,M: Mensuelle,2020-08,1.56925790844733,,,SL13: Définitions : Emploi national,,,1: Un
+LU1:DF_E1100(1.0),SL13: Emploi national,M: Mensuelle,2020-09,0.944204445174934,,,SL13: Définitions : Emploi national,,,1: Un
+LU1:DF_E1100(1.0),SL13: Emploi national,M: Mensuelle,2020-10,1.002724624662,,,SL13: Définitions : Emploi national,,,1: Un
+LU1:DF_E1100(1.0),SL13: Emploi national,M: Mensuelle,2020-11,0.77994317314154,,,SL13: Définitions : Emploi national,,,1: Un
+LU1:DF_E1100(1.0),SL13: Emploi national,M: Mensuelle,2020-12,0.964267333576396,,,SL13: Définitions : Emploi national,,,1: Un
+LU1:DF_E1100(1.0),SL13: Emploi national,M: Mensuelle,2021-01,0.644136490402847,,,SL13: Définitions : Emploi national,,,1: Un
+LU1:DF_E1100(1.0),SL13: Emploi national,M: Mensuelle,2021-02,0.699267887072463,,,SL13: Définitions : Emploi national,,,1: Un
+LU1:DF_E1100(1.0),SL13: Emploi national,M: Mensuelle,2021-03,1.81439841393858,,,SL13: Définitions : Emploi national,,,1: Un
+LU1:DF_E1100(1.0),SL13: Emploi national,M: Mensuelle,2021-04,2.53521958540741,,,SL13: Définitions : Emploi national,,,1: Un
+LU1:DF_E1100(1.0),SL13: Emploi national,M: Mensuelle,2021-05,2.07708380908114,,,SL13: Définitions : Emploi national,,,1: Un
+LU1:DF_E1100(1.0),SL13: Emploi national,M: Mensuelle,2021-06,2.33472018555054,,,SL13: Définitions : Emploi national,,,1: Un
+LU1:DF_E1100(1.0),SL13: Emploi national,M: Mensuelle,2021-07,1.88953516161772,,,SL13: Définitions : Emploi national,,,1: Un
+LU1:DF_E1100(1.0),SL13: Emploi national,M: Mensuelle,2021-08,1.91271514185858,,,SL13: Définitions : Emploi national,,,1: Un
+LU1:DF_E1100(1.0),SL13: Emploi national,M: Mensuelle,2021-09,2.56271409749658,,,SL13: Définitions : Emploi national,,,1: Un
+LU1:DF_E1100(1.0),SL13: Emploi national,M: Mensuelle,2021-10,2.47898584296027,,,SL13: Définitions : Emploi national,,,1: Un
+LU1:DF_E1100(1.0),SL13: Emploi national,M: Mensuelle,2021-11,2.56185263200281,,,SL13: Définitions : Emploi national,,,1: Un
+LU1:DF_E1100(1.0),SL13: Emploi national,M: Mensuelle,2021-12,2.57057308031008,,,SL13: Définitions : Emploi national,,,1: Un
+LU1:DF_E1100(1.0),SL13: Emploi national,M: Mensuelle,2022-01,2.92199957331238,,,SL13: Définitions : Emploi national,,,1: Un
+LU1:DF_E1100(1.0),SL13: Emploi national,M: Mensuelle,2022-02,2.81618907414196,,,SL13: Définitions : Emploi national,,,1: Un
+LU1:DF_E1100(1.0),SL13: Emploi national,M: Mensuelle,2022-03,2.68641358103336,,,SL13: Définitions : Emploi national,,,1: Un
+LU1:DF_E1100(1.0),SL13: Emploi national,M: Mensuelle,2022-04,2.43059030057706,,,SL13: Définitions : Emploi national,,,1: Un
+LU1:DF_E1100(1.0),SL13: Emploi national,M: Mensuelle,2022-05,2.32156537935579,,,SL13: Définitions : Emploi national,,,1: Un
+LU1:DF_E1100(1.0),SL13: Emploi national,M: Mensuelle,2022-06,2.26857012258705,,,SL13: Définitions : Emploi national,,,1: Un
+LU1:DF_E1100(1.0),SL13: Emploi national,M: Mensuelle,2022-07,2.56536484483327,,,SL13: Définitions : Emploi national,,,1: Un
+LU1:DF_E1100(1.0),SL13: Emploi national,M: Mensuelle,2022-08,2.44399290779336,,,SL13: Définitions : Emploi national,,,1: Un
+LU1:DF_E1100(1.0),SL13: Emploi national,M: Mensuelle,2022-09,2.32280880496636,,,SL13: Définitions : Emploi national,,,1: Un
+LU1:DF_E1100(1.0),SL13: Emploi national,M: Mensuelle,2022-10,2.1033895298072,,,SL13: Définitions : Emploi national,,,1: Un
+LU1:DF_E1100(1.0),SL13: Emploi national,M: Mensuelle,2022-11,2.26140617966293,,,SL13: Définitions : Emploi national,,,1: Un
+LU1:DF_E1100(1.0),SL13: Emploi national,M: Mensuelle,2022-12,2.32144610180629,,,SL13: Définitions : Emploi national,,,1: Un
+LU1:DF_E1100(1.0),SL13: Emploi national,M: Mensuelle,2023-01,2.20275726675718,,,SL13: Définitions : Emploi national,,,1: Un
+LU1:DF_E1100(1.0),SL13: Emploi national,M: Mensuelle,2023-02,2.29104441865764,,,SL13: Définitions : Emploi national,,,1: Un
+LU1:DF_E1100(1.0),SL13: Emploi national,M: Mensuelle,2023-03,2.19179284375011,,,SL13: Définitions : Emploi national,,,1: Un
+LU1:DF_E1100(1.0),SL13: Emploi national,M: Mensuelle,2023-04,2.20068854056013,,,SL13: Définitions : Emploi national,,,1: Un
+LU1:DF_E1100(1.0),SL13: Emploi national,M: Mensuelle,2023-05,2.17868178904508,,,SL13: Définitions : Emploi national,,,1: Un
+LU1:DF_E1100(1.0),SL13: Emploi national,M: Mensuelle,2023-06,2.00434605711823,,,SL13: Définitions : Emploi national,,,1: Un
+LU1:DF_E1100(1.0),SL13: Emploi national,M: Mensuelle,2023-07,1.7458707829539,,,SL13: Définitions : Emploi national,,,1: Un
+LU1:DF_E1100(1.0),SL13: Emploi national,M: Mensuelle,2023-08,1.60693268762515,,,SL13: Définitions : Emploi national,,,1: Un
+LU1:DF_E1100(1.0),SL13: Emploi national,M: Mensuelle,2023-09,1.5325979934673,,,SL13: Définitions : Emploi national,,,1: Un
+LU1:DF_E1100(1.0),SL13: Emploi national,M: Mensuelle,2023-10,1.52684591897341,,,SL13: Définitions : Emploi national,,,1: Un
+LU1:DF_E1100(1.0),SL13: Emploi national,M: Mensuelle,2023-11,1.34996789205597,,,SL13: Définitions : Emploi national,,,1: Un
+LU1:DF_E1100(1.0),SL13: Emploi national,M: Mensuelle,2023-12,1.31766455856321,,,SL13: Définitions : Emploi national,,,1: Un
+LU1:DF_E1100(1.0),SL13: Emploi national,M: Mensuelle,2024-01,1.06368281897362,,,SL13: Définitions : Emploi national,,,1: Un
+LU1:DF_E1100(1.0),SL13: Emploi national,M: Mensuelle,2024-02,0.918647119226179,,,SL13: Définitions : Emploi national,,,1: Un
+LU1:DF_E1100(1.0),SL13: Emploi national,M: Mensuelle,2024-03,0.890000082777132,,,SL13: Définitions : Emploi national,,,1: Un
+LU1:DF_E1100(1.0),SL13: Emploi national,M: Mensuelle,2024-04,0.782843377366782,,,SL13: Définitions : Emploi national,,,1: Un
+LU1:DF_E1100(1.0),SL03: Chiffre d'affaires en volume du commerce de détail hors vente par correspondance,M: Mensuelle,2020-01,5.50598732096736,,,SL03: Définitions : Commerce de détail,,,1: Un
+LU1:DF_E1100(1.0),SL03: Chiffre d'affaires en volume du commerce de détail hors vente par correspondance,M: Mensuelle,2020-02,7.28398314014753,,,SL03: Définitions : Commerce de détail,,,1: Un
+LU1:DF_E1100(1.0),SL03: Chiffre d'affaires en volume du commerce de détail hors vente par correspondance,M: Mensuelle,2020-03,-11.0741602926505,,,SL03: Définitions : Commerce de détail,,,1: Un
+LU1:DF_E1100(1.0),SL03: Chiffre d'affaires en volume du commerce de détail hors vente par correspondance,M: Mensuelle,2020-04,-23.8777351680578,,,SL03: Définitions : Commerce de détail,,,1: Un
+LU1:DF_E1100(1.0),SL03: Chiffre d'affaires en volume du commerce de détail hors vente par correspondance,M: Mensuelle,2020-05,-4.31368085590713,,,SL03: Définitions : Commerce de détail,,,1: Un
+LU1:DF_E1100(1.0),SL03: Chiffre d'affaires en volume du commerce de détail hors vente par correspondance,M: Mensuelle,2020-06,5.32511827483773,,,SL03: Définitions : Commerce de détail,,,1: Un
+LU1:DF_E1100(1.0),SL03: Chiffre d'affaires en volume du commerce de détail hors vente par correspondance,M: Mensuelle,2020-07,7.93551742069682,,,SL03: Définitions : Commerce de détail,,,1: Un
+LU1:DF_E1100(1.0),SL03: Chiffre d'affaires en volume du commerce de détail hors vente par correspondance,M: Mensuelle,2020-08,9.99480789200413,,,SL03: Définitions : Commerce de détail,,,1: Un
+LU1:DF_E1100(1.0),SL03: Chiffre d'affaires en volume du commerce de détail hors vente par correspondance,M: Mensuelle,2020-09,7.56312389900176,,,SL03: Définitions : Commerce de détail,,,1: Un
+LU1:DF_E1100(1.0),SL03: Chiffre d'affaires en volume du commerce de détail hors vente par correspondance,M: Mensuelle,2020-10,3.80411937788987,,,SL03: Définitions : Commerce de détail,,,1: Un
+LU1:DF_E1100(1.0),SL03: Chiffre d'affaires en volume du commerce de détail hors vente par correspondance,M: Mensuelle,2020-11,5.61654055206224,,,SL03: Définitions : Commerce de détail,,,1: Un
+LU1:DF_E1100(1.0),SL03: Chiffre d'affaires en volume du commerce de détail hors vente par correspondance,M: Mensuelle,2020-12,0.814134765286689,,,SL03: Définitions : Commerce de détail,,,1: Un
+LU1:DF_E1100(1.0),SL03: Chiffre d'affaires en volume du commerce de détail hors vente par correspondance,M: Mensuelle,2021-01,-0.111271837098037,,,SL03: Définitions : Commerce de détail,,,1: Un
+LU1:DF_E1100(1.0),SL03: Chiffre d'affaires en volume du commerce de détail hors vente par correspondance,M: Mensuelle,2021-02,9.77286678944136,,,SL03: Définitions : Commerce de détail,,,1: Un
+LU1:DF_E1100(1.0),SL03: Chiffre d'affaires en volume du commerce de détail hors vente par correspondance,M: Mensuelle,2021-03,29.7930690600848,,,SL03: Définitions : Commerce de détail,,,1: Un
+LU1:DF_E1100(1.0),SL03: Chiffre d'affaires en volume du commerce de détail hors vente par correspondance,M: Mensuelle,2021-04,52.2744110238554,,,SL03: Définitions : Commerce de détail,,,1: Un
+LU1:DF_E1100(1.0),SL03: Chiffre d'affaires en volume du commerce de détail hors vente par correspondance,M: Mensuelle,2021-05,17.3783751635542,,,SL03: Définitions : Commerce de détail,,,1: Un
+LU1:DF_E1100(1.0),SL03: Chiffre d'affaires en volume du commerce de détail hors vente par correspondance,M: Mensuelle,2021-06,9.06716807688288,,,SL03: Définitions : Commerce de détail,,,1: Un
+LU1:DF_E1100(1.0),SL03: Chiffre d'affaires en volume du commerce de détail hors vente par correspondance,M: Mensuelle,2021-07,-1.90788205820004,,,SL03: Définitions : Commerce de détail,,,1: Un
+LU1:DF_E1100(1.0),SL03: Chiffre d'affaires en volume du commerce de détail hors vente par correspondance,M: Mensuelle,2021-08,0.519235308000954,,,SL03: Définitions : Commerce de détail,,,1: Un
+LU1:DF_E1100(1.0),SL03: Chiffre d'affaires en volume du commerce de détail hors vente par correspondance,M: Mensuelle,2021-09,4.32361611529641,,,SL03: Définitions : Commerce de détail,,,1: Un
+LU1:DF_E1100(1.0),SL03: Chiffre d'affaires en volume du commerce de détail hors vente par correspondance,M: Mensuelle,2021-10,3.58372140109333,,,SL03: Définitions : Commerce de détail,,,1: Un
+LU1:DF_E1100(1.0),SL03: Chiffre d'affaires en volume du commerce de détail hors vente par correspondance,M: Mensuelle,2021-11,1.34207870837539,,,SL03: Définitions : Commerce de détail,,,1: Un
+LU1:DF_E1100(1.0),SL03: Chiffre d'affaires en volume du commerce de détail hors vente par correspondance,M: Mensuelle,2021-12,7.86082474226804,,,SL03: Définitions : Commerce de détail,,,1: Un
+LU1:DF_E1100(1.0),SL03: Chiffre d'affaires en volume du commerce de détail hors vente par correspondance,M: Mensuelle,2022-01,3.69834020274034,,,SL03: Définitions : Commerce de détail,,,1: Un
+LU1:DF_E1100(1.0),SL03: Chiffre d'affaires en volume du commerce de détail hors vente par correspondance,M: Mensuelle,2022-02,-3.61257130074935,,,SL03: Définitions : Commerce de détail,,,1: Un
+LU1:DF_E1100(1.0),SL03: Chiffre d'affaires en volume du commerce de détail hors vente par correspondance,M: Mensuelle,2022-03,1.78640030733768,,,SL03: Définitions : Commerce de détail,,,1: Un
+LU1:DF_E1100(1.0),SL03: Chiffre d'affaires en volume du commerce de détail hors vente par correspondance,M: Mensuelle,2022-04,-5.32256495086114,,,SL03: Définitions : Commerce de détail,,,1: Un
+LU1:DF_E1100(1.0),SL03: Chiffre d'affaires en volume du commerce de détail hors vente par correspondance,M: Mensuelle,2022-05,-0.476286988244845,,,SL03: Définitions : Commerce de détail,,,1: Un
+LU1:DF_E1100(1.0),SL03: Chiffre d'affaires en volume du commerce de détail hors vente par correspondance,M: Mensuelle,2022-06,-2.88286562589789,,,SL03: Définitions : Commerce de détail,,,1: Un
+LU1:DF_E1100(1.0),SL03: Chiffre d'affaires en volume du commerce de détail hors vente par correspondance,M: Mensuelle,2022-07,0.766208251473488,,,SL03: Définitions : Commerce de détail,,,1: Un
+LU1:DF_E1100(1.0),SL03: Chiffre d'affaires en volume du commerce de détail hors vente par correspondance,M: Mensuelle,2022-08,0.551772716600141,,,SL03: Définitions : Commerce de détail,,,1: Un
+LU1:DF_E1100(1.0),SL03: Chiffre d'affaires en volume du commerce de détail hors vente par correspondance,M: Mensuelle,2022-09,4.34327577184721,,,SL03: Définitions : Commerce de détail,,,1: Un
+LU1:DF_E1100(1.0),SL03: Chiffre d'affaires en volume du commerce de détail hors vente par correspondance,M: Mensuelle,2022-10,-2.16966379984362,,,SL03: Définitions : Commerce de détail,,,1: Un
+LU1:DF_E1100(1.0),SL03: Chiffre d'affaires en volume du commerce de détail hors vente par correspondance,M: Mensuelle,2022-11,-1.4537488798168,,,SL03: Définitions : Commerce de détail,,,1: Un
+LU1:DF_E1100(1.0),SL03: Chiffre d'affaires en volume du commerce de détail hors vente par correspondance,M: Mensuelle,2022-12,-0.740740740740731,,,SL03: Définitions : Commerce de détail,,,1: Un
+LU1:DF_E1100(1.0),SL03: Chiffre d'affaires en volume du commerce de détail hors vente par correspondance,M: Mensuelle,2023-01,0.784187345579546,,,SL03: Définitions : Commerce de détail,,,1: Un
+LU1:DF_E1100(1.0),SL03: Chiffre d'affaires en volume du commerce de détail hors vente par correspondance,M: Mensuelle,2023-02,-1.77535391042005,,,SL03: Définitions : Commerce de détail,,,1: Un
+LU1:DF_E1100(1.0),SL03: Chiffre d'affaires en volume du commerce de détail hors vente par correspondance,M: Mensuelle,2023-03,-4.75561426684281,,,SL03: Définitions : Commerce de détail,,,1: Un
+LU1:DF_E1100(1.0),SL03: Chiffre d'affaires en volume du commerce de détail hors vente par correspondance,M: Mensuelle,2023-04,-3.57656731757452,,,SL03: Définitions : Commerce de détail,,,1: Un
+LU1:DF_E1100(1.0),SL03: Chiffre d'affaires en volume du commerce de détail hors vente par correspondance,M: Mensuelle,2023-05,-2.78993992465125,,,SL03: Définitions : Commerce de détail,,,1: Un
+LU1:DF_E1100(1.0),SL03: Chiffre d'affaires en volume du commerce de détail hors vente par correspondance,M: Mensuelle,2023-06,2.67258382642996,,,SL03: Définitions : Commerce de détail,,,1: Un
+LU1:DF_E1100(1.0),SL03: Chiffre d'affaires en volume du commerce de détail hors vente par correspondance,M: Mensuelle,2023-07,-0.95535192045233,,,SL03: Définitions : Commerce de détail,,,1: Un
+LU1:DF_E1100(1.0),SL03: Chiffre d'affaires en volume du commerce de détail hors vente par correspondance,M: Mensuelle,2023-08,-0.478692352597798,,,SL03: Définitions : Commerce de détail,,,1: Un
+LU1:DF_E1100(1.0),SL03: Chiffre d'affaires en volume du commerce de détail hors vente par correspondance,M: Mensuelle,2023-09,-1.14343029087262,,,SL03: Définitions : Commerce de détail,,,1: Un
+LU1:DF_E1100(1.0),SL03: Chiffre d'affaires en volume du commerce de détail hors vente par correspondance,M: Mensuelle,2023-10,1.07892107892109,,,SL03: Définitions : Commerce de détail,,,1: Un
+LU1:DF_E1100(1.0),SL03: Chiffre d'affaires en volume du commerce de détail hors vente par correspondance,M: Mensuelle,2023-11,-0.899262402748313,,,SL03: Définitions : Commerce de détail,,,1: Un
+LU1:DF_E1100(1.0),SL03: Chiffre d'affaires en volume du commerce de détail hors vente par correspondance,M: Mensuelle,2023-12,-2.23880597014926,,,SL03: Définitions : Commerce de détail,,,1: Un
+LU1:DF_E1100(1.0),SL03: Chiffre d'affaires en volume du commerce de détail hors vente par correspondance,M: Mensuelle,2024-01,-1.66275847367298,,,SL03: Définitions : Commerce de détail,,,1: Un
+LU1:DF_E1100(1.0),SL03: Chiffre d'affaires en volume du commerce de détail hors vente par correspondance,M: Mensuelle,2024-02,3.29592439456585,,,SL03: Définitions : Commerce de détail,,,1: Un
+LU1:DF_E1100(1.0),SL03: Chiffre d'affaires en volume du commerce de détail hors vente par correspondance,M: Mensuelle,2024-03,1.34733505052507,,,SL03: Définitions : Commerce de détail,,,1: Un
+LU1:DF_E1100(1.0),SL03: Chiffre d'affaires en volume du commerce de détail hors vente par correspondance,M: Mensuelle,2024-04,,,,SL03: Définitions : Commerce de détail,,l: Non disponible,1: Un
+LU1:DF_E1100(1.0),"SL14: Taux de chômage (en % de la population active, cvs, ADEM)",M: Mensuelle,2020-01,5.4097904318914,,,"SL14: Définitions : Taux de chômage, Population active",,,1: Un
+LU1:DF_E1100(1.0),"SL14: Taux de chômage (en % de la population active, cvs, ADEM)",M: Mensuelle,2020-02,5.45629086312962,,,"SL14: Définitions : Taux de chômage, Population active",,,1: Un
+LU1:DF_E1100(1.0),"SL14: Taux de chômage (en % de la population active, cvs, ADEM)",M: Mensuelle,2020-03,6.17827391232707,,,"SL14: Définitions : Taux de chômage, Population active",,,1: Un
+LU1:DF_E1100(1.0),"SL14: Taux de chômage (en % de la population active, cvs, ADEM)",M: Mensuelle,2020-04,6.92791259089041,,,"SL14: Définitions : Taux de chômage, Population active",,,1: Un
+LU1:DF_E1100(1.0),"SL14: Taux de chômage (en % de la population active, cvs, ADEM)",M: Mensuelle,2020-05,7.01141391908033,,,"SL14: Définitions : Taux de chômage, Population active",,,1: Un
+LU1:DF_E1100(1.0),"SL14: Taux de chômage (en % de la population active, cvs, ADEM)",M: Mensuelle,2020-06,7.05532903783274,,,"SL14: Définitions : Taux de chômage, Population active",,,1: Un
+LU1:DF_E1100(1.0),"SL14: Taux de chômage (en % de la population active, cvs, ADEM)",M: Mensuelle,2020-07,6.67319559159571,,,"SL14: Définitions : Taux de chômage, Population active",,,1: Un
+LU1:DF_E1100(1.0),"SL14: Taux de chômage (en % de la population active, cvs, ADEM)",M: Mensuelle,2020-08,6.4264533854281,,,"SL14: Définitions : Taux de chômage, Population active",,,1: Un
+LU1:DF_E1100(1.0),"SL14: Taux de chômage (en % de la population active, cvs, ADEM)",M: Mensuelle,2020-09,6.3123539961755,,,"SL14: Définitions : Taux de chômage, Population active",,,1: Un
+LU1:DF_E1100(1.0),"SL14: Taux de chômage (en % de la population active, cvs, ADEM)",M: Mensuelle,2020-10,6.25496100364651,,,"SL14: Définitions : Taux de chômage, Population active",,,1: Un
+LU1:DF_E1100(1.0),"SL14: Taux de chômage (en % de la population active, cvs, ADEM)",M: Mensuelle,2020-11,6.27866912118435,,,"SL14: Définitions : Taux de chômage, Population active",,,1: Un
+LU1:DF_E1100(1.0),"SL14: Taux de chômage (en % de la population active, cvs, ADEM)",M: Mensuelle,2020-12,6.3465276496035,,,"SL14: Définitions : Taux de chômage, Population active",,,1: Un
+LU1:DF_E1100(1.0),"SL14: Taux de chômage (en % de la population active, cvs, ADEM)",M: Mensuelle,2021-01,6.40635231269319,,,"SL14: Définitions : Taux de chômage, Population active",,,1: Un
+LU1:DF_E1100(1.0),"SL14: Taux de chômage (en % de la population active, cvs, ADEM)",M: Mensuelle,2021-02,6.28044567199043,,,"SL14: Définitions : Taux de chômage, Population active",,,1: Un
+LU1:DF_E1100(1.0),"SL14: Taux de chômage (en % de la population active, cvs, ADEM)",M: Mensuelle,2021-03,6.19615422075495,,,"SL14: Définitions : Taux de chômage, Population active",,,1: Un
+LU1:DF_E1100(1.0),"SL14: Taux de chômage (en % de la population active, cvs, ADEM)",M: Mensuelle,2021-04,6.1210486824933,,,"SL14: Définitions : Taux de chômage, Population active",,,1: Un
+LU1:DF_E1100(1.0),"SL14: Taux de chômage (en % de la population active, cvs, ADEM)",M: Mensuelle,2021-05,5.95429176528983,,,"SL14: Définitions : Taux de chômage, Population active",,,1: Un
+LU1:DF_E1100(1.0),"SL14: Taux de chômage (en % de la population active, cvs, ADEM)",M: Mensuelle,2021-06,5.75839428131372,,,"SL14: Définitions : Taux de chômage, Population active",,,1: Un
+LU1:DF_E1100(1.0),"SL14: Taux de chômage (en % de la population active, cvs, ADEM)",M: Mensuelle,2021-07,5.65243742524901,,,"SL14: Définitions : Taux de chômage, Population active",,,1: Un
+LU1:DF_E1100(1.0),"SL14: Taux de chômage (en % de la population active, cvs, ADEM)",M: Mensuelle,2021-08,5.54719213176754,,,"SL14: Définitions : Taux de chômage, Population active",,,1: Un
+LU1:DF_E1100(1.0),"SL14: Taux de chômage (en % de la population active, cvs, ADEM)",M: Mensuelle,2021-09,5.42665962584121,,,"SL14: Définitions : Taux de chômage, Population active",,,1: Un
+LU1:DF_E1100(1.0),"SL14: Taux de chômage (en % de la population active, cvs, ADEM)",M: Mensuelle,2021-10,5.27855510108015,,,"SL14: Définitions : Taux de chômage, Population active",,,1: Un
+LU1:DF_E1100(1.0),"SL14: Taux de chômage (en % de la population active, cvs, ADEM)",M: Mensuelle,2021-11,5.17821415044114,,,"SL14: Définitions : Taux de chômage, Population active",,,1: Un
+LU1:DF_E1100(1.0),"SL14: Taux de chômage (en % de la population active, cvs, ADEM)",M: Mensuelle,2021-12,5.17223351394246,,,"SL14: Définitions : Taux de chômage, Population active",,,1: Un
+LU1:DF_E1100(1.0),"SL14: Taux de chômage (en % de la population active, cvs, ADEM)",M: Mensuelle,2022-01,4.90679168637776,,,"SL14: Définitions : Taux de chômage, Population active",,,1: Un
+LU1:DF_E1100(1.0),"SL14: Taux de chômage (en % de la population active, cvs, ADEM)",M: Mensuelle,2022-02,4.88826602408564,,,"SL14: Définitions : Taux de chômage, Population active",,,1: Un
+LU1:DF_E1100(1.0),"SL14: Taux de chômage (en % de la population active, cvs, ADEM)",M: Mensuelle,2022-03,4.77395683267471,,,"SL14: Définitions : Taux de chômage, Population active",,,1: Un
+LU1:DF_E1100(1.0),"SL14: Taux de chômage (en % de la population active, cvs, ADEM)",M: Mensuelle,2022-04,4.76029375622574,,,"SL14: Définitions : Taux de chômage, Population active",,,1: Un
+LU1:DF_E1100(1.0),"SL14: Taux de chômage (en % de la population active, cvs, ADEM)",M: Mensuelle,2022-05,4.7448217215998,,,"SL14: Définitions : Taux de chômage, Population active",,,1: Un
+LU1:DF_E1100(1.0),"SL14: Taux de chômage (en % de la population active, cvs, ADEM)",M: Mensuelle,2022-06,4.73002095871481,,,"SL14: Définitions : Taux de chômage, Population active",,,1: Un
+LU1:DF_E1100(1.0),"SL14: Taux de chômage (en % de la population active, cvs, ADEM)",M: Mensuelle,2022-07,4.73689506636989,,,"SL14: Définitions : Taux de chômage, Population active",,,1: Un
+LU1:DF_E1100(1.0),"SL14: Taux de chômage (en % de la population active, cvs, ADEM)",M: Mensuelle,2022-08,4.79654678387385,,,"SL14: Définitions : Taux de chômage, Population active",,,1: Un
+LU1:DF_E1100(1.0),"SL14: Taux de chômage (en % de la population active, cvs, ADEM)",M: Mensuelle,2022-09,4.80381793929016,,,"SL14: Définitions : Taux de chômage, Population active",,,1: Un
+LU1:DF_E1100(1.0),"SL14: Taux de chômage (en % de la population active, cvs, ADEM)",M: Mensuelle,2022-10,4.92338922713422,,,"SL14: Définitions : Taux de chômage, Population active",,,1: Un
+LU1:DF_E1100(1.0),"SL14: Taux de chômage (en % de la population active, cvs, ADEM)",M: Mensuelle,2022-11,4.86143166545205,,,"SL14: Définitions : Taux de chômage, Population active",,,1: Un
+LU1:DF_E1100(1.0),"SL14: Taux de chômage (en % de la population active, cvs, ADEM)",M: Mensuelle,2022-12,4.87313686841581,,,"SL14: Définitions : Taux de chômage, Population active",,,1: Un
+LU1:DF_E1100(1.0),"SL14: Taux de chômage (en % de la population active, cvs, ADEM)",M: Mensuelle,2023-01,4.91071299476756,,,"SL14: Définitions : Taux de chômage, Population active",,,1: Un
+LU1:DF_E1100(1.0),"SL14: Taux de chômage (en % de la population active, cvs, ADEM)",M: Mensuelle,2023-02,4.8746805554206,,,"SL14: Définitions : Taux de chômage, Population active",,,1: Un
+LU1:DF_E1100(1.0),"SL14: Taux de chômage (en % de la population active, cvs, ADEM)",M: Mensuelle,2023-03,4.91849634300044,,,"SL14: Définitions : Taux de chômage, Population active",,,1: Un
+LU1:DF_E1100(1.0),"SL14: Taux de chômage (en % de la population active, cvs, ADEM)",M: Mensuelle,2023-04,4.99928895848712,,,"SL14: Définitions : Taux de chômage, Population active",,,1: Un
+LU1:DF_E1100(1.0),"SL14: Taux de chômage (en % de la population active, cvs, ADEM)",M: Mensuelle,2023-05,5.05316471319463,,,"SL14: Définitions : Taux de chômage, Population active",,,1: Un
+LU1:DF_E1100(1.0),"SL14: Taux de chômage (en % de la population active, cvs, ADEM)",M: Mensuelle,2023-06,5.19211776412615,,,"SL14: Définitions : Taux de chômage, Population active",,,1: Un
+LU1:DF_E1100(1.0),"SL14: Taux de chômage (en % de la population active, cvs, ADEM)",M: Mensuelle,2023-07,5.24790637390111,,,"SL14: Définitions : Taux de chômage, Population active",,,1: Un
+LU1:DF_E1100(1.0),"SL14: Taux de chômage (en % de la population active, cvs, ADEM)",M: Mensuelle,2023-08,5.32632764190335,,,"SL14: Définitions : Taux de chômage, Population active",,,1: Un
+LU1:DF_E1100(1.0),"SL14: Taux de chômage (en % de la population active, cvs, ADEM)",M: Mensuelle,2023-09,5.49307336644747,,,"SL14: Définitions : Taux de chômage, Population active",,,1: Un
+LU1:DF_E1100(1.0),"SL14: Taux de chômage (en % de la population active, cvs, ADEM)",M: Mensuelle,2023-10,5.53670815992833,,,"SL14: Définitions : Taux de chômage, Population active",,,1: Un
+LU1:DF_E1100(1.0),"SL14: Taux de chômage (en % de la population active, cvs, ADEM)",M: Mensuelle,2023-11,5.66031452388556,,,"SL14: Définitions : Taux de chômage, Population active",,,1: Un
+LU1:DF_E1100(1.0),"SL14: Taux de chômage (en % de la population active, cvs, ADEM)",M: Mensuelle,2023-12,5.51640866439689,,,"SL14: Définitions : Taux de chômage, Population active",,,1: Un
+LU1:DF_E1100(1.0),"SL14: Taux de chômage (en % de la population active, cvs, ADEM)",M: Mensuelle,2024-01,5.56740697204848,,,"SL14: Définitions : Taux de chômage, Population active",,,1: Un
+LU1:DF_E1100(1.0),"SL14: Taux de chômage (en % de la population active, cvs, ADEM)",M: Mensuelle,2024-02,5.58073398631891,,,"SL14: Définitions : Taux de chômage, Population active",,,1: Un
+LU1:DF_E1100(1.0),"SL14: Taux de chômage (en % de la population active, cvs, ADEM)",M: Mensuelle,2024-03,5.62409815308376,,,"SL14: Définitions : Taux de chômage, Population active",,,1: Un
+LU1:DF_E1100(1.0),"SL14: Taux de chômage (en % de la population active, cvs, ADEM)",M: Mensuelle,2024-04,5.6238574780851,,,"SL14: Définitions : Taux de chômage, Population active",,,1: Un
+LU1:DF_E1100(1.0),"L02: Prix, salaires",M: Mensuelle,2020-01,,,,"L02: Variations annuelles en %, sauf mention contraire. Définitions : Salaires et traitements, Salariés",,,1: Un
+LU1:DF_E1100(1.0),"L02: Prix, salaires",M: Mensuelle,2020-02,,,,"L02: Variations annuelles en %, sauf mention contraire. Définitions : Salaires et traitements, Salariés",,,1: Un
+LU1:DF_E1100(1.0),"L02: Prix, salaires",M: Mensuelle,2020-03,,,,"L02: Variations annuelles en %, sauf mention contraire. Définitions : Salaires et traitements, Salariés",,,1: Un
+LU1:DF_E1100(1.0),"L02: Prix, salaires",M: Mensuelle,2020-04,,,,"L02: Variations annuelles en %, sauf mention contraire. Définitions : Salaires et traitements, Salariés",,,1: Un
+LU1:DF_E1100(1.0),"L02: Prix, salaires",M: Mensuelle,2020-05,,,,"L02: Variations annuelles en %, sauf mention contraire. Définitions : Salaires et traitements, Salariés",,,1: Un
+LU1:DF_E1100(1.0),"L02: Prix, salaires",M: Mensuelle,2020-06,,,,"L02: Variations annuelles en %, sauf mention contraire. Définitions : Salaires et traitements, Salariés",,,1: Un
+LU1:DF_E1100(1.0),"L02: Prix, salaires",M: Mensuelle,2020-07,,,,"L02: Variations annuelles en %, sauf mention contraire. Définitions : Salaires et traitements, Salariés",,,1: Un
+LU1:DF_E1100(1.0),"L02: Prix, salaires",M: Mensuelle,2020-08,,,,"L02: Variations annuelles en %, sauf mention contraire. Définitions : Salaires et traitements, Salariés",,,1: Un
+LU1:DF_E1100(1.0),"L02: Prix, salaires",M: Mensuelle,2020-09,,,,"L02: Variations annuelles en %, sauf mention contraire. Définitions : Salaires et traitements, Salariés",,,1: Un
+LU1:DF_E1100(1.0),"L02: Prix, salaires",M: Mensuelle,2020-10,,,,"L02: Variations annuelles en %, sauf mention contraire. Définitions : Salaires et traitements, Salariés",,,1: Un
+LU1:DF_E1100(1.0),"L02: Prix, salaires",M: Mensuelle,2020-11,,,,"L02: Variations annuelles en %, sauf mention contraire. Définitions : Salaires et traitements, Salariés",,,1: Un
+LU1:DF_E1100(1.0),"L02: Prix, salaires",M: Mensuelle,2020-12,,,,"L02: Variations annuelles en %, sauf mention contraire. Définitions : Salaires et traitements, Salariés",,,1: Un
+LU1:DF_E1100(1.0),"L02: Prix, salaires",M: Mensuelle,2021-01,,,,"L02: Variations annuelles en %, sauf mention contraire. Définitions : Salaires et traitements, Salariés",,,1: Un
+LU1:DF_E1100(1.0),"L02: Prix, salaires",M: Mensuelle,2021-02,,,,"L02: Variations annuelles en %, sauf mention contraire. Définitions : Salaires et traitements, Salariés",,,1: Un
+LU1:DF_E1100(1.0),"L02: Prix, salaires",M: Mensuelle,2021-03,,,,"L02: Variations annuelles en %, sauf mention contraire. Définitions : Salaires et traitements, Salariés",,,1: Un
+LU1:DF_E1100(1.0),"L02: Prix, salaires",M: Mensuelle,2021-04,,,,"L02: Variations annuelles en %, sauf mention contraire. Définitions : Salaires et traitements, Salariés",,,1: Un
+LU1:DF_E1100(1.0),"L02: Prix, salaires",M: Mensuelle,2021-05,,,,"L02: Variations annuelles en %, sauf mention contraire. Définitions : Salaires et traitements, Salariés",,,1: Un
+LU1:DF_E1100(1.0),"L02: Prix, salaires",M: Mensuelle,2021-06,,,,"L02: Variations annuelles en %, sauf mention contraire. Définitions : Salaires et traitements, Salariés",,,1: Un
+LU1:DF_E1100(1.0),"L02: Prix, salaires",M: Mensuelle,2021-07,,,,"L02: Variations annuelles en %, sauf mention contraire. Définitions : Salaires et traitements, Salariés",,,1: Un
+LU1:DF_E1100(1.0),"L02: Prix, salaires",M: Mensuelle,2021-08,,,,"L02: Variations annuelles en %, sauf mention contraire. Définitions : Salaires et traitements, Salariés",,,1: Un
+LU1:DF_E1100(1.0),"L02: Prix, salaires",M: Mensuelle,2021-09,,,,"L02: Variations annuelles en %, sauf mention contraire. Définitions : Salaires et traitements, Salariés",,,1: Un
+LU1:DF_E1100(1.0),"L02: Prix, salaires",M: Mensuelle,2021-10,,,,"L02: Variations annuelles en %, sauf mention contraire. Définitions : Salaires et traitements, Salariés",,,1: Un
+LU1:DF_E1100(1.0),"L02: Prix, salaires",M: Mensuelle,2021-11,,,,"L02: Variations annuelles en %, sauf mention contraire. Définitions : Salaires et traitements, Salariés",,,1: Un
+LU1:DF_E1100(1.0),"L02: Prix, salaires",M: Mensuelle,2021-12,,,,"L02: Variations annuelles en %, sauf mention contraire. Définitions : Salaires et traitements, Salariés",,,1: Un
+LU1:DF_E1100(1.0),"L02: Prix, salaires",M: Mensuelle,2022-01,,,,"L02: Variations annuelles en %, sauf mention contraire. Définitions : Salaires et traitements, Salariés",,,1: Un
+LU1:DF_E1100(1.0),"L02: Prix, salaires",M: Mensuelle,2022-02,,,,"L02: Variations annuelles en %, sauf mention contraire. Définitions : Salaires et traitements, Salariés",,,1: Un
+LU1:DF_E1100(1.0),"L02: Prix, salaires",M: Mensuelle,2022-03,,,,"L02: Variations annuelles en %, sauf mention contraire. Définitions : Salaires et traitements, Salariés",,,1: Un
+LU1:DF_E1100(1.0),"L02: Prix, salaires",M: Mensuelle,2022-04,,,,"L02: Variations annuelles en %, sauf mention contraire. Définitions : Salaires et traitements, Salariés",,,1: Un
+LU1:DF_E1100(1.0),"L02: Prix, salaires",M: Mensuelle,2022-05,,,,"L02: Variations annuelles en %, sauf mention contraire. Définitions : Salaires et traitements, Salariés",,,1: Un
+LU1:DF_E1100(1.0),"L02: Prix, salaires",M: Mensuelle,2022-06,,,,"L02: Variations annuelles en %, sauf mention contraire. Définitions : Salaires et traitements, Salariés",,,1: Un
+LU1:DF_E1100(1.0),"L02: Prix, salaires",M: Mensuelle,2022-07,,,,"L02: Variations annuelles en %, sauf mention contraire. Définitions : Salaires et traitements, Salariés",,,1: Un
+LU1:DF_E1100(1.0),"L02: Prix, salaires",M: Mensuelle,2022-08,,,,"L02: Variations annuelles en %, sauf mention contraire. Définitions : Salaires et traitements, Salariés",,,1: Un
+LU1:DF_E1100(1.0),"L02: Prix, salaires",M: Mensuelle,2022-09,,,,"L02: Variations annuelles en %, sauf mention contraire. Définitions : Salaires et traitements, Salariés",,,1: Un
+LU1:DF_E1100(1.0),"L02: Prix, salaires",M: Mensuelle,2022-10,,,,"L02: Variations annuelles en %, sauf mention contraire. Définitions : Salaires et traitements, Salariés",,,1: Un
+LU1:DF_E1100(1.0),"L02: Prix, salaires",M: Mensuelle,2022-11,,,,"L02: Variations annuelles en %, sauf mention contraire. Définitions : Salaires et traitements, Salariés",,,1: Un
+LU1:DF_E1100(1.0),"L02: Prix, salaires",M: Mensuelle,2022-12,,,,"L02: Variations annuelles en %, sauf mention contraire. Définitions : Salaires et traitements, Salariés",,,1: Un
+LU1:DF_E1100(1.0),"L02: Prix, salaires",M: Mensuelle,2023-01,,,,"L02: Variations annuelles en %, sauf mention contraire. Définitions : Salaires et traitements, Salariés",,,1: Un
+LU1:DF_E1100(1.0),"L02: Prix, salaires",M: Mensuelle,2023-02,,,,"L02: Variations annuelles en %, sauf mention contraire. Définitions : Salaires et traitements, Salariés",,,1: Un
+LU1:DF_E1100(1.0),"L02: Prix, salaires",M: Mensuelle,2023-03,,,,"L02: Variations annuelles en %, sauf mention contraire. Définitions : Salaires et traitements, Salariés",,,1: Un
+LU1:DF_E1100(1.0),"L02: Prix, salaires",M: Mensuelle,2023-04,,,,"L02: Variations annuelles en %, sauf mention contraire. Définitions : Salaires et traitements, Salariés",,,1: Un
+LU1:DF_E1100(1.0),"L02: Prix, salaires",M: Mensuelle,2023-05,,,,"L02: Variations annuelles en %, sauf mention contraire. Définitions : Salaires et traitements, Salariés",,,1: Un
+LU1:DF_E1100(1.0),"L02: Prix, salaires",M: Mensuelle,2023-06,,,,"L02: Variations annuelles en %, sauf mention contraire. Définitions : Salaires et traitements, Salariés",,,1: Un
+LU1:DF_E1100(1.0),"L02: Prix, salaires",M: Mensuelle,2023-07,,,,"L02: Variations annuelles en %, sauf mention contraire. Définitions : Salaires et traitements, Salariés",,,1: Un
+LU1:DF_E1100(1.0),"L02: Prix, salaires",M: Mensuelle,2023-08,,,,"L02: Variations annuelles en %, sauf mention contraire. Définitions : Salaires et traitements, Salariés",,,1: Un
+LU1:DF_E1100(1.0),"L02: Prix, salaires",M: Mensuelle,2023-09,,,,"L02: Variations annuelles en %, sauf mention contraire. Définitions : Salaires et traitements, Salariés",,,1: Un
+LU1:DF_E1100(1.0),"L02: Prix, salaires",M: Mensuelle,2023-10,,,,"L02: Variations annuelles en %, sauf mention contraire. Définitions : Salaires et traitements, Salariés",,,1: Un
+LU1:DF_E1100(1.0),"L02: Prix, salaires",M: Mensuelle,2023-11,,,,"L02: Variations annuelles en %, sauf mention contraire. Définitions : Salaires et traitements, Salariés",,,1: Un
+LU1:DF_E1100(1.0),"L02: Prix, salaires",M: Mensuelle,2023-12,,,,"L02: Variations annuelles en %, sauf mention contraire. Définitions : Salaires et traitements, Salariés",,,1: Un
+LU1:DF_E1100(1.0),"L02: Prix, salaires",M: Mensuelle,2024-01,,,,"L02: Variations annuelles en %, sauf mention contraire. Définitions : Salaires et traitements, Salariés",,,1: Un
+LU1:DF_E1100(1.0),"L02: Prix, salaires",M: Mensuelle,2024-02,,,,"L02: Variations annuelles en %, sauf mention contraire. Définitions : Salaires et traitements, Salariés",,,1: Un
+LU1:DF_E1100(1.0),"L02: Prix, salaires",M: Mensuelle,2024-03,,,,"L02: Variations annuelles en %, sauf mention contraire. Définitions : Salaires et traitements, Salariés",,,1: Un
+LU1:DF_E1100(1.0),"L02: Prix, salaires",M: Mensuelle,2024-04,,,,"L02: Variations annuelles en %, sauf mention contraire. Définitions : Salaires et traitements, Salariés",,,1: Un
+LU1:DF_E1100(1.0),SL12: Emploi salarié intérieur,M: Mensuelle,2020-01,3.39823216245556,,,,,,1: Un
+LU1:DF_E1100(1.0),SL12: Emploi salarié intérieur,M: Mensuelle,2020-02,3.2270516374618,,,,,,1: Un
+LU1:DF_E1100(1.0),SL12: Emploi salarié intérieur,M: Mensuelle,2020-03,1.39934394550449,,,,,,1: Un
+LU1:DF_E1100(1.0),SL12: Emploi salarié intérieur,M: Mensuelle,2020-04,0.581954620078995,,,,,,1: Un
+LU1:DF_E1100(1.0),SL12: Emploi salarié intérieur,M: Mensuelle,2020-05,1.48716701816254,,,,,,1: Un
+LU1:DF_E1100(1.0),SL12: Emploi salarié intérieur,M: Mensuelle,2020-06,1.28047391871122,,,,,,1: Un
+LU1:DF_E1100(1.0),SL12: Emploi salarié intérieur,M: Mensuelle,2020-07,1.93943901243663,,,,,,1: Un
+LU1:DF_E1100(1.0),SL12: Emploi salarié intérieur,M: Mensuelle,2020-08,1.73450412162353,,,,,,1: Un
+LU1:DF_E1100(1.0),SL12: Emploi salarié intérieur,M: Mensuelle,2020-09,1.42887758111518,,,,,,1: Un
+LU1:DF_E1100(1.0),SL12: Emploi salarié intérieur,M: Mensuelle,2020-10,1.55250919013228,,,,,,1: Un
+LU1:DF_E1100(1.0),SL12: Emploi salarié intérieur,M: Mensuelle,2020-11,1.14492803444735,,,,,,1: Un
+LU1:DF_E1100(1.0),SL12: Emploi salarié intérieur,M: Mensuelle,2020-12,1.51662814981897,,,,,,1: Un
+LU1:DF_E1100(1.0),SL12: Emploi salarié intérieur,M: Mensuelle,2021-01,1.32443491620811,,,,,,1: Un
+LU1:DF_E1100(1.0),SL12: Emploi salarié intérieur,M: Mensuelle,2021-02,1.30457128084442,,,,,,1: Un
+LU1:DF_E1100(1.0),SL12: Emploi salarié intérieur,M: Mensuelle,2021-03,3.03317579676807,,,,,,1: Un
+LU1:DF_E1100(1.0),SL12: Emploi salarié intérieur,M: Mensuelle,2021-04,3.86636357165207,,,,,,1: Un
+LU1:DF_E1100(1.0),SL12: Emploi salarié intérieur,M: Mensuelle,2021-05,3.21583835073755,,,,,,1: Un
+LU1:DF_E1100(1.0),SL12: Emploi salarié intérieur,M: Mensuelle,2021-06,3.29514682314831,,,,,,1: Un
+LU1:DF_E1100(1.0),SL12: Emploi salarié intérieur,M: Mensuelle,2021-07,2.82585927007206,,,,,,1: Un
+LU1:DF_E1100(1.0),SL12: Emploi salarié intérieur,M: Mensuelle,2021-08,2.82741738318062,,,,,,1: Un
+LU1:DF_E1100(1.0),SL12: Emploi salarié intérieur,M: Mensuelle,2021-09,3.36385960114585,,,,,,1: Un
+LU1:DF_E1100(1.0),SL12: Emploi salarié intérieur,M: Mensuelle,2021-10,3.27239275817246,,,,,,1: Un
+LU1:DF_E1100(1.0),SL12: Emploi salarié intérieur,M: Mensuelle,2021-11,3.49827502428453,,,,,,1: Un
+LU1:DF_E1100(1.0),SL12: Emploi salarié intérieur,M: Mensuelle,2021-12,3.50165980121737,,,,,,1: Un
+LU1:DF_E1100(1.0),SL12: Emploi salarié intérieur,M: Mensuelle,2022-01,3.72127758130141,,,,,,1: Un
+LU1:DF_E1100(1.0),SL12: Emploi salarié intérieur,M: Mensuelle,2022-02,3.58359507315051,,,,,,1: Un
+LU1:DF_E1100(1.0),SL12: Emploi salarié intérieur,M: Mensuelle,2022-03,3.64820549651492,,,,,,1: Un
+LU1:DF_E1100(1.0),SL12: Emploi salarié intérieur,M: Mensuelle,2022-04,3.53610142217915,,,,,,1: Un
+LU1:DF_E1100(1.0),SL12: Emploi salarié intérieur,M: Mensuelle,2022-05,3.54833559990151,,,,,,1: Un
+LU1:DF_E1100(1.0),SL12: Emploi salarié intérieur,M: Mensuelle,2022-06,3.46738628196055,,,,,,1: Un
+LU1:DF_E1100(1.0),SL12: Emploi salarié intérieur,M: Mensuelle,2022-07,3.51271639036486,,,,,,1: Un
+LU1:DF_E1100(1.0),SL12: Emploi salarié intérieur,M: Mensuelle,2022-08,3.34764150730409,,,,,,1: Un
+LU1:DF_E1100(1.0),SL12: Emploi salarié intérieur,M: Mensuelle,2022-09,3.26275936757956,,,,,,1: Un
+LU1:DF_E1100(1.0),SL12: Emploi salarié intérieur,M: Mensuelle,2022-10,2.88616254841714,,,,,,1: Un
+LU1:DF_E1100(1.0),SL12: Emploi salarié intérieur,M: Mensuelle,2022-11,3.03875359526304,,,,,,1: Un
+LU1:DF_E1100(1.0),SL12: Emploi salarié intérieur,M: Mensuelle,2022-12,3.23223126312966,,,,,,1: Un
+LU1:DF_E1100(1.0),SL12: Emploi salarié intérieur,M: Mensuelle,2023-01,2.75991342939343,,,,,,1: Un
+LU1:DF_E1100(1.0),SL12: Emploi salarié intérieur,M: Mensuelle,2023-02,2.86082530273346,,,,,,1: Un
+LU1:DF_E1100(1.0),SL12: Emploi salarié intérieur,M: Mensuelle,2023-03,2.63600585174382,,,,,,1: Un
+LU1:DF_E1100(1.0),SL12: Emploi salarié intérieur,M: Mensuelle,2023-04,2.5965689622155,,,,,,1: Un
+LU1:DF_E1100(1.0),SL12: Emploi salarié intérieur,M: Mensuelle,2023-05,2.45590613332314,,,,,,1: Un
+LU1:DF_E1100(1.0),SL12: Emploi salarié intérieur,M: Mensuelle,2023-06,2.27980983211098,,,,,,1: Un
+LU1:DF_E1100(1.0),SL12: Emploi salarié intérieur,M: Mensuelle,2023-07,1.91735339206398,,,,,,1: Un
+LU1:DF_E1100(1.0),SL12: Emploi salarié intérieur,M: Mensuelle,2023-08,1.9265666226876,,,,,,1: Un
+LU1:DF_E1100(1.0),SL12: Emploi salarié intérieur,M: Mensuelle,2023-09,1.72361159304903,,,,,,1: Un
+LU1:DF_E1100(1.0),SL12: Emploi salarié intérieur,M: Mensuelle,2023-10,1.64041485829978,,,,,,1: Un
+LU1:DF_E1100(1.0),SL12: Emploi salarié intérieur,M: Mensuelle,2023-11,1.50436800764508,,,,,,1: Un
+LU1:DF_E1100(1.0),SL12: Emploi salarié intérieur,M: Mensuelle,2023-12,1.50462336330353,,,,,,1: Un
+LU1:DF_E1100(1.0),SL12: Emploi salarié intérieur,M: Mensuelle,2024-01,1.25955686149937,,,,,,1: Un
+LU1:DF_E1100(1.0),SL12: Emploi salarié intérieur,M: Mensuelle,2024-02,1.10929445344303,,,,,,1: Un
+LU1:DF_E1100(1.0),SL12: Emploi salarié intérieur,M: Mensuelle,2024-03,1.04189830287023,,,,,,1: Un
+LU1:DF_E1100(1.0),SL12: Emploi salarié intérieur,M: Mensuelle,2024-04,0.862527037610228,,,,,,1: Un
+LU1:DF_E1100(1.0),"SL01: Production industrielle par jour ouvrable, en volume",M: Mensuelle,2020-01,-5.0325830773036,,,SL01: Définitions : Production par jour ouvrable,,,1: Un
+LU1:DF_E1100(1.0),"SL01: Production industrielle par jour ouvrable, en volume",M: Mensuelle,2020-02,-3.22833320329298,,,SL01: Définitions : Production par jour ouvrable,,,1: Un
+LU1:DF_E1100(1.0),"SL01: Production industrielle par jour ouvrable, en volume",M: Mensuelle,2020-03,-20.0004797712415,,,SL01: Définitions : Production par jour ouvrable,,,1: Un
+LU1:DF_E1100(1.0),"SL01: Production industrielle par jour ouvrable, en volume",M: Mensuelle,2020-04,-32.2014771207731,,,SL01: Définitions : Production par jour ouvrable,,,1: Un
+LU1:DF_E1100(1.0),"SL01: Production industrielle par jour ouvrable, en volume",M: Mensuelle,2020-05,-21.1238874199373,,,SL01: Définitions : Production par jour ouvrable,,,1: Un
+LU1:DF_E1100(1.0),"SL01: Production industrielle par jour ouvrable, en volume",M: Mensuelle,2020-06,-12.7641689724111,,,SL01: Définitions : Production par jour ouvrable,,,1: Un
+LU1:DF_E1100(1.0),"SL01: Production industrielle par jour ouvrable, en volume",M: Mensuelle,2020-07,-7.93506597422975,,,SL01: Définitions : Production par jour ouvrable,,,1: Un
+LU1:DF_E1100(1.0),"SL01: Production industrielle par jour ouvrable, en volume",M: Mensuelle,2020-08,-10.9102016192782,,,SL01: Définitions : Production par jour ouvrable,,,1: Un
+LU1:DF_E1100(1.0),"SL01: Production industrielle par jour ouvrable, en volume",M: Mensuelle,2020-09,-5.32153772638481,,,SL01: Définitions : Production par jour ouvrable,,,1: Un
+LU1:DF_E1100(1.0),"SL01: Production industrielle par jour ouvrable, en volume",M: Mensuelle,2020-10,-3.05232690644768,,,SL01: Définitions : Production par jour ouvrable,,,1: Un
+LU1:DF_E1100(1.0),"SL01: Production industrielle par jour ouvrable, en volume",M: Mensuelle,2020-11,-2.22158825221487,,,SL01: Définitions : Production par jour ouvrable,,,1: Un
+LU1:DF_E1100(1.0),"SL01: Production industrielle par jour ouvrable, en volume",M: Mensuelle,2020-12,-4.04294375964406,,,SL01: Définitions : Production par jour ouvrable,,,1: Un
+LU1:DF_E1100(1.0),"SL01: Production industrielle par jour ouvrable, en volume",M: Mensuelle,2021-01,1.1170128892612,,,SL01: Définitions : Production par jour ouvrable,,,1: Un
+LU1:DF_E1100(1.0),"SL01: Production industrielle par jour ouvrable, en volume",M: Mensuelle,2021-02,-2.25412751126144,,,SL01: Définitions : Production par jour ouvrable,,,1: Un
+LU1:DF_E1100(1.0),"SL01: Production industrielle par jour ouvrable, en volume",M: Mensuelle,2021-03,17.9565244402297,,,SL01: Définitions : Production par jour ouvrable,,,1: Un
+LU1:DF_E1100(1.0),"SL01: Production industrielle par jour ouvrable, en volume",M: Mensuelle,2021-04,41.0195294585381,,,SL01: Définitions : Production par jour ouvrable,,,1: Un
+LU1:DF_E1100(1.0),"SL01: Production industrielle par jour ouvrable, en volume",M: Mensuelle,2021-05,21.3797466618287,,,SL01: Définitions : Production par jour ouvrable,,,1: Un
+LU1:DF_E1100(1.0),"SL01: Production industrielle par jour ouvrable, en volume",M: Mensuelle,2021-06,12.3764213162037,,,SL01: Définitions : Production par jour ouvrable,,,1: Un
+LU1:DF_E1100(1.0),"SL01: Production industrielle par jour ouvrable, en volume",M: Mensuelle,2021-07,3.70015651621192,,,SL01: Définitions : Production par jour ouvrable,,,1: Un
+LU1:DF_E1100(1.0),"SL01: Production industrielle par jour ouvrable, en volume",M: Mensuelle,2021-08,5.66743440203608,,,SL01: Définitions : Production par jour ouvrable,,,1: Un
+LU1:DF_E1100(1.0),"SL01: Production industrielle par jour ouvrable, en volume",M: Mensuelle,2021-09,1.37954281000954,,,SL01: Définitions : Production par jour ouvrable,,,1: Un
+LU1:DF_E1100(1.0),"SL01: Production industrielle par jour ouvrable, en volume",M: Mensuelle,2021-10,1.17854096894003,,,SL01: Définitions : Production par jour ouvrable,,,1: Un
+LU1:DF_E1100(1.0),"SL01: Production industrielle par jour ouvrable, en volume",M: Mensuelle,2021-11,1.27033669627012,,,SL01: Définitions : Production par jour ouvrable,,,1: Un
+LU1:DF_E1100(1.0),"SL01: Production industrielle par jour ouvrable, en volume",M: Mensuelle,2021-12,6.85758022311687,,,SL01: Définitions : Production par jour ouvrable,,,1: Un
+LU1:DF_E1100(1.0),"SL01: Production industrielle par jour ouvrable, en volume",M: Mensuelle,2022-01,1.1536253344697,,,SL01: Définitions : Production par jour ouvrable,,,1: Un
+LU1:DF_E1100(1.0),"SL01: Production industrielle par jour ouvrable, en volume",M: Mensuelle,2022-02,2.90463597989339,,,SL01: Définitions : Production par jour ouvrable,,,1: Un
+LU1:DF_E1100(1.0),"SL01: Production industrielle par jour ouvrable, en volume",M: Mensuelle,2022-03,-3.47046087406612,,,SL01: Définitions : Production par jour ouvrable,,,1: Un
+LU1:DF_E1100(1.0),"SL01: Production industrielle par jour ouvrable, en volume",M: Mensuelle,2022-04,0.075137966700245,,,SL01: Définitions : Production par jour ouvrable,,,1: Un
+LU1:DF_E1100(1.0),"SL01: Production industrielle par jour ouvrable, en volume",M: Mensuelle,2022-05,-2.31910699513622,,,SL01: Définitions : Production par jour ouvrable,,,1: Un
+LU1:DF_E1100(1.0),"SL01: Production industrielle par jour ouvrable, en volume",M: Mensuelle,2022-06,-2.97673876317295,,,SL01: Définitions : Production par jour ouvrable,,,1: Un
+LU1:DF_E1100(1.0),"SL01: Production industrielle par jour ouvrable, en volume",M: Mensuelle,2022-07,0.713579850999579,,,SL01: Définitions : Production par jour ouvrable,,,1: Un
+LU1:DF_E1100(1.0),"SL01: Production industrielle par jour ouvrable, en volume",M: Mensuelle,2022-08,-2.41339238043231,,,SL01: Définitions : Production par jour ouvrable,,,1: Un
+LU1:DF_E1100(1.0),"SL01: Production industrielle par jour ouvrable, en volume",M: Mensuelle,2022-09,1.26536425760193,,,SL01: Définitions : Production par jour ouvrable,,,1: Un
+LU1:DF_E1100(1.0),"SL01: Production industrielle par jour ouvrable, en volume",M: Mensuelle,2022-10,-2.04798764378464,,,SL01: Définitions : Production par jour ouvrable,,,1: Un
+LU1:DF_E1100(1.0),"SL01: Production industrielle par jour ouvrable, en volume",M: Mensuelle,2022-11,-1.76843597081151,,,SL01: Définitions : Production par jour ouvrable,,,1: Un
+LU1:DF_E1100(1.0),"SL01: Production industrielle par jour ouvrable, en volume",M: Mensuelle,2022-12,-6.42633002651948,,,SL01: Définitions : Production par jour ouvrable,,,1: Un
+LU1:DF_E1100(1.0),"SL01: Production industrielle par jour ouvrable, en volume",M: Mensuelle,2023-01,-9.28856082355768,,,SL01: Définitions : Production par jour ouvrable,,,1: Un
+LU1:DF_E1100(1.0),"SL01: Production industrielle par jour ouvrable, en volume",M: Mensuelle,2023-02,-3.13880638130907,,,SL01: Définitions : Production par jour ouvrable,,,1: Un
+LU1:DF_E1100(1.0),"SL01: Production industrielle par jour ouvrable, en volume",M: Mensuelle,2023-03,-1.4254537124502,,,SL01: Définitions : Production par jour ouvrable,,,1: Un
+LU1:DF_E1100(1.0),"SL01: Production industrielle par jour ouvrable, en volume",M: Mensuelle,2023-04,-6.86557367924161,,,SL01: Définitions : Production par jour ouvrable,,,1: Un
+LU1:DF_E1100(1.0),"SL01: Production industrielle par jour ouvrable, en volume",M: Mensuelle,2023-05,-6.74633378988277,,,SL01: Définitions : Production par jour ouvrable,,,1: Un
+LU1:DF_E1100(1.0),"SL01: Production industrielle par jour ouvrable, en volume",M: Mensuelle,2023-06,-6.80283462974901,,,SL01: Définitions : Production par jour ouvrable,,,1: Un
+LU1:DF_E1100(1.0),"SL01: Production industrielle par jour ouvrable, en volume",M: Mensuelle,2023-07,-6.76737474376577,,,SL01: Définitions : Production par jour ouvrable,,,1: Un
+LU1:DF_E1100(1.0),"SL01: Production industrielle par jour ouvrable, en volume",M: Mensuelle,2023-08,-5.72396015244664,,,SL01: Définitions : Production par jour ouvrable,,,1: Un
+LU1:DF_E1100(1.0),"SL01: Production industrielle par jour ouvrable, en volume",M: Mensuelle,2023-09,-9.94711856542196,,,SL01: Définitions : Production par jour ouvrable,,,1: Un
+LU1:DF_E1100(1.0),"SL01: Production industrielle par jour ouvrable, en volume",M: Mensuelle,2023-10,-3.73165958598399,,,SL01: Définitions : Production par jour ouvrable,,,1: Un
+LU1:DF_E1100(1.0),"SL01: Production industrielle par jour ouvrable, en volume",M: Mensuelle,2023-11,-5.46729994931054,,,SL01: Définitions : Production par jour ouvrable,,,1: Un
+LU1:DF_E1100(1.0),"SL01: Production industrielle par jour ouvrable, en volume",M: Mensuelle,2023-12,-1.59833706002174,,,SL01: Définitions : Production par jour ouvrable,,,1: Un
+LU1:DF_E1100(1.0),"SL01: Production industrielle par jour ouvrable, en volume",M: Mensuelle,2024-01,-4.19658292428637,,,SL01: Définitions : Production par jour ouvrable,,,1: Un
+LU1:DF_E1100(1.0),"SL01: Production industrielle par jour ouvrable, en volume",M: Mensuelle,2024-02,-7.81300138183475,,,SL01: Définitions : Production par jour ouvrable,,,1: Un
+LU1:DF_E1100(1.0),"SL01: Production industrielle par jour ouvrable, en volume",M: Mensuelle,2024-03,-0.866562438555396,,,SL01: Définitions : Production par jour ouvrable,,,1: Un
+LU1:DF_E1100(1.0),"SL01: Production industrielle par jour ouvrable, en volume",M: Mensuelle,2024-04,,,,SL01: Définitions : Production par jour ouvrable,,l: Non disponible,1: Un
+LU1:DF_E1100(1.0),L03: Commerce extérieur,M: Mensuelle,2020-01,,,,"L03: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L03: Commerce extérieur,M: Mensuelle,2020-02,,,,"L03: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L03: Commerce extérieur,M: Mensuelle,2020-03,,,,"L03: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L03: Commerce extérieur,M: Mensuelle,2020-04,,,,"L03: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L03: Commerce extérieur,M: Mensuelle,2020-05,,,,"L03: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L03: Commerce extérieur,M: Mensuelle,2020-06,,,,"L03: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L03: Commerce extérieur,M: Mensuelle,2020-07,,,,"L03: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L03: Commerce extérieur,M: Mensuelle,2020-08,,,,"L03: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L03: Commerce extérieur,M: Mensuelle,2020-09,,,,"L03: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L03: Commerce extérieur,M: Mensuelle,2020-10,,,,"L03: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L03: Commerce extérieur,M: Mensuelle,2020-11,,,,"L03: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L03: Commerce extérieur,M: Mensuelle,2020-12,,,,"L03: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L03: Commerce extérieur,M: Mensuelle,2021-01,,,,"L03: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L03: Commerce extérieur,M: Mensuelle,2021-02,,,,"L03: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L03: Commerce extérieur,M: Mensuelle,2021-03,,,,"L03: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L03: Commerce extérieur,M: Mensuelle,2021-04,,,,"L03: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L03: Commerce extérieur,M: Mensuelle,2021-05,,,,"L03: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L03: Commerce extérieur,M: Mensuelle,2021-06,,,,"L03: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L03: Commerce extérieur,M: Mensuelle,2021-07,,,,"L03: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L03: Commerce extérieur,M: Mensuelle,2021-08,,,,"L03: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L03: Commerce extérieur,M: Mensuelle,2021-09,,,,"L03: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L03: Commerce extérieur,M: Mensuelle,2021-10,,,,"L03: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L03: Commerce extérieur,M: Mensuelle,2021-11,,,,"L03: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L03: Commerce extérieur,M: Mensuelle,2021-12,,,,"L03: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L03: Commerce extérieur,M: Mensuelle,2022-01,,,,"L03: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L03: Commerce extérieur,M: Mensuelle,2022-02,,,,"L03: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L03: Commerce extérieur,M: Mensuelle,2022-03,,,,"L03: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L03: Commerce extérieur,M: Mensuelle,2022-04,,,,"L03: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L03: Commerce extérieur,M: Mensuelle,2022-05,,,,"L03: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L03: Commerce extérieur,M: Mensuelle,2022-06,,,,"L03: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L03: Commerce extérieur,M: Mensuelle,2022-07,,,,"L03: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L03: Commerce extérieur,M: Mensuelle,2022-08,,,,"L03: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L03: Commerce extérieur,M: Mensuelle,2022-09,,,,"L03: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L03: Commerce extérieur,M: Mensuelle,2022-10,,,,"L03: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L03: Commerce extérieur,M: Mensuelle,2022-11,,,,"L03: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L03: Commerce extérieur,M: Mensuelle,2022-12,,,,"L03: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L03: Commerce extérieur,M: Mensuelle,2023-01,,,,"L03: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L03: Commerce extérieur,M: Mensuelle,2023-02,,,,"L03: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L03: Commerce extérieur,M: Mensuelle,2023-03,,,,"L03: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L03: Commerce extérieur,M: Mensuelle,2023-04,,,,"L03: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L03: Commerce extérieur,M: Mensuelle,2023-05,,,,"L03: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L03: Commerce extérieur,M: Mensuelle,2023-06,,,,"L03: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L03: Commerce extérieur,M: Mensuelle,2023-07,,,,"L03: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L03: Commerce extérieur,M: Mensuelle,2023-08,,,,"L03: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L03: Commerce extérieur,M: Mensuelle,2023-09,,,,"L03: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L03: Commerce extérieur,M: Mensuelle,2023-10,,,,"L03: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L03: Commerce extérieur,M: Mensuelle,2023-11,,,,"L03: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L03: Commerce extérieur,M: Mensuelle,2023-12,,,,"L03: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L03: Commerce extérieur,M: Mensuelle,2024-01,,,,"L03: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L03: Commerce extérieur,M: Mensuelle,2024-02,,,,"L03: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L03: Commerce extérieur,M: Mensuelle,2024-03,,,,"L03: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),L03: Commerce extérieur,M: Mensuelle,2024-04,,,,"L03: Variations annuelles en %, sauf mention contraire.",,,1: Un
+LU1:DF_E1100(1.0),SL11: Importations de biens en volume,M: Mensuelle,2020-01,-0.961070803994346,,,"SL11: Définitions : Importations de biens et de services (P.7), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL11: Importations de biens en volume,M: Mensuelle,2020-02,-3.7164497124433,,,"SL11: Définitions : Importations de biens et de services (P.7), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL11: Importations de biens en volume,M: Mensuelle,2020-03,-15.4818676770799,,,"SL11: Définitions : Importations de biens et de services (P.7), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL11: Importations de biens en volume,M: Mensuelle,2020-04,-35.1862125146671,,,"SL11: Définitions : Importations de biens et de services (P.7), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL11: Importations de biens en volume,M: Mensuelle,2020-05,-22.2749244518068,,,"SL11: Définitions : Importations de biens et de services (P.7), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL11: Importations de biens en volume,M: Mensuelle,2020-06,-4.59203511798315,,,"SL11: Définitions : Importations de biens et de services (P.7), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL11: Importations de biens en volume,M: Mensuelle,2020-07,1.58766320771193,,,"SL11: Définitions : Importations de biens et de services (P.7), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL11: Importations de biens en volume,M: Mensuelle,2020-08,3.89695197475668,,,"SL11: Définitions : Importations de biens et de services (P.7), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL11: Importations de biens en volume,M: Mensuelle,2020-09,-0.63337511375996,,,"SL11: Définitions : Importations de biens et de services (P.7), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL11: Importations de biens en volume,M: Mensuelle,2020-10,-3.10862030643182,,,"SL11: Définitions : Importations de biens et de services (P.7), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL11: Importations de biens en volume,M: Mensuelle,2020-11,0.397076060928803,,,"SL11: Définitions : Importations de biens et de services (P.7), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL11: Importations de biens en volume,M: Mensuelle,2020-12,-0.306537932719775,,,"SL11: Définitions : Importations de biens et de services (P.7), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL11: Importations de biens en volume,M: Mensuelle,2021-01,-6.2081301949888,,,"SL11: Définitions : Importations de biens et de services (P.7), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL11: Importations de biens en volume,M: Mensuelle,2021-02,-3.88659058309954,,,"SL11: Définitions : Importations de biens et de services (P.7), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL11: Importations de biens en volume,M: Mensuelle,2021-03,19.0040301987292,,,"SL11: Définitions : Importations de biens et de services (P.7), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL11: Importations de biens en volume,M: Mensuelle,2021-04,44.9327340179294,,,"SL11: Définitions : Importations de biens et de services (P.7), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL11: Importations de biens en volume,M: Mensuelle,2021-05,68.8137133186505,,,"SL11: Définitions : Importations de biens et de services (P.7), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL11: Importations de biens en volume,M: Mensuelle,2021-06,9.23681597251915,,,"SL11: Définitions : Importations de biens et de services (P.7), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL11: Importations de biens en volume,M: Mensuelle,2021-07,-5.87866903095034,,,"SL11: Définitions : Importations de biens et de services (P.7), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL11: Importations de biens en volume,M: Mensuelle,2021-08,-11.8732014294899,,,"SL11: Définitions : Importations de biens et de services (P.7), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL11: Importations de biens en volume,M: Mensuelle,2021-09,0.44247980194545,,,"SL11: Définitions : Importations de biens et de services (P.7), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL11: Importations de biens en volume,M: Mensuelle,2021-10,10.2408631720572,,,"SL11: Définitions : Importations de biens et de services (P.7), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL11: Importations de biens en volume,M: Mensuelle,2021-11,-8.37569793360826,,,"SL11: Définitions : Importations de biens et de services (P.7), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL11: Importations de biens en volume,M: Mensuelle,2021-12,-3.51677478752301,,,"SL11: Définitions : Importations de biens et de services (P.7), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL11: Importations de biens en volume,M: Mensuelle,2022-01,-2.81642804385757,,,"SL11: Définitions : Importations de biens et de services (P.7), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL11: Importations de biens en volume,M: Mensuelle,2022-02,-2.22472076047823,,,"SL11: Définitions : Importations de biens et de services (P.7), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL11: Importations de biens en volume,M: Mensuelle,2022-03,-8.81938907158898,,,"SL11: Définitions : Importations de biens et de services (P.7), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL11: Importations de biens en volume,M: Mensuelle,2022-04,-12.493929376165,,,"SL11: Définitions : Importations de biens et de services (P.7), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL11: Importations de biens en volume,M: Mensuelle,2022-05,-35.4680946362718,,,"SL11: Définitions : Importations de biens et de services (P.7), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL11: Importations de biens en volume,M: Mensuelle,2022-06,-11.729348849098,,,"SL11: Définitions : Importations de biens et de services (P.7), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL11: Importations de biens en volume,M: Mensuelle,2022-07,-13.5893954334441,,,"SL11: Définitions : Importations de biens et de services (P.7), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL11: Importations de biens en volume,M: Mensuelle,2022-08,-4.57266885119089,,,"SL11: Définitions : Importations de biens et de services (P.7), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL11: Importations de biens en volume,M: Mensuelle,2022-09,-10.1337669840991,,,"SL11: Définitions : Importations de biens et de services (P.7), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL11: Importations de biens en volume,M: Mensuelle,2022-10,-25.0849327200192,,,"SL11: Définitions : Importations de biens et de services (P.7), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL11: Importations de biens en volume,M: Mensuelle,2022-11,-9.20334937667146,,,"SL11: Définitions : Importations de biens et de services (P.7), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL11: Importations de biens en volume,M: Mensuelle,2022-12,-13.312924311562,,,"SL11: Définitions : Importations de biens et de services (P.7), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL11: Importations de biens en volume,M: Mensuelle,2023-01,-10.3100690890772,,,"SL11: Définitions : Importations de biens et de services (P.7), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL11: Importations de biens en volume,M: Mensuelle,2023-02,-3.90489070731652,,,"SL11: Définitions : Importations de biens et de services (P.7), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL11: Importations de biens en volume,M: Mensuelle,2023-03,10.3807602963796,,,"SL11: Définitions : Importations de biens et de services (P.7), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL11: Importations de biens en volume,M: Mensuelle,2023-04,2.02516828511767,,,"SL11: Définitions : Importations de biens et de services (P.7), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL11: Importations de biens en volume,M: Mensuelle,2023-05,5.63000756236711,,,"SL11: Définitions : Importations de biens et de services (P.7), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL11: Importations de biens en volume,M: Mensuelle,2023-06,3.66232405020459,,,"SL11: Définitions : Importations de biens et de services (P.7), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL11: Importations de biens en volume,M: Mensuelle,2023-07,3.27245528044795,,,"SL11: Définitions : Importations de biens et de services (P.7), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL11: Importations de biens en volume,M: Mensuelle,2023-08,4.03857777782788,,,"SL11: Définitions : Importations de biens et de services (P.7), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL11: Importations de biens en volume,M: Mensuelle,2023-09,-2.07304353255492,,,"SL11: Définitions : Importations de biens et de services (P.7), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL11: Importations de biens en volume,M: Mensuelle,2023-10,4.75684211945515,,,"SL11: Définitions : Importations de biens et de services (P.7), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL11: Importations de biens en volume,M: Mensuelle,2023-11,2.55393109698929,,,"SL11: Définitions : Importations de biens et de services (P.7), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL11: Importations de biens en volume,M: Mensuelle,2023-12,-0.109600531044629,,,"SL11: Définitions : Importations de biens et de services (P.7), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL11: Importations de biens en volume,M: Mensuelle,2024-01,8.7810165333535,,,"SL11: Définitions : Importations de biens et de services (P.7), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL11: Importations de biens en volume,M: Mensuelle,2024-02,6.50782011563151,,,"SL11: Définitions : Importations de biens et de services (P.7), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL11: Importations de biens en volume,M: Mensuelle,2024-03,-13.5362452810548,,,"SL11: Définitions : Importations de biens et de services (P.7), Biens",,,1: Un
+LU1:DF_E1100(1.0),SL11: Importations de biens en volume,M: Mensuelle,2024-04,,,,"SL11: Définitions : Importations de biens et de services (P.7), Biens",,l: Non disponible,1: Un
